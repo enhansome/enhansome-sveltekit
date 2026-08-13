@@ -1,0 +1,1012 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open WebUI [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:07:04Z",
+            "owner": "open-webui",
+            "repo": "open-webui",
+            "stars": 148673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immich [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:53:54Z",
+            "owner": "immich-app",
+            "repo": "immich",
+            "stars": 110380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svelte-realworld [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:46:45Z",
+            "owner": "realworld-apps",
+            "repo": "realworld",
+            "stars": 84078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official SvelteKit docs [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T13:44:05Z",
+            "owner": "sveltejs",
+            "repo": "kit",
+            "stars": 20738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windmill [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T12:55:21Z",
+            "owner": "windmill-labs",
+            "repo": "windmill",
+            "stars": 17521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VERT [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-08-10T05:53:10Z",
+            "owner": "VERT-sh",
+            "repo": "VERT",
+            "stars": 15358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chat UI [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:30:54Z",
+            "owner": "huggingface",
+            "repo": "chat-ui",
+            "stars": 10885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadcn-svelte [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T08:01:50Z",
+            "owner": "huntabyte",
+            "repo": "shadcn-svelte",
+            "stars": 9035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evidence [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-18T20:43:42Z",
+            "owner": "evidence-dev",
+            "repo": "evidence",
+            "stars": 6847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mermaid-live-editor [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T19:40:05Z",
+            "owner": "mermaid-js",
+            "repo": "mermaid-live-editor",
+            "stars": 6741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skeleton [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:49:58Z",
+            "owner": "skeletonlabs",
+            "repo": "skeleton",
+            "stars": 6039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fireship [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-07-08T22:28:12Z",
+            "owner": "fireship-io",
+            "repo": "fireship.io",
+            "stars": 3756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte Material UI [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-04T00:17:40Z",
+            "owner": "hperrin",
+            "repo": "svelte-material-ui",
+            "stars": 3439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Threlte [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-07-30T06:17:28Z",
+            "owner": "threlte",
+            "repo": "threlte",
+            "stars": 3321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StemRoller [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-06-30T04:12:28Z",
+            "owner": "stemrollerapp",
+            "repo": "stemroller",
+            "stars": 3144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowbite [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-06-27T09:07:45Z",
+            "owner": "themesberg",
+            "repo": "flowbite-svelte",
+            "stars": 2782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macos-web [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-07-05T07:33:00Z",
+            "owner": "PuruVJ",
+            "repo": "macos-web",
+            "stars": 2653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inlang [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:27:40Z",
+            "owner": "opral",
+            "repo": "inlang",
+            "stars": 1980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte Commerce [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-08-11T19:13:22Z",
+            "owner": "itswadesh",
+            "repo": "svelte-commerce",
+            "stars": 1804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte Headless UI [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-03-31T09:03:14Z",
+            "owner": "rgossiaux",
+            "repo": "svelte-headlessui",
+            "stars": 1793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Layer Cake [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-08-11T16:45:22Z",
+            "owner": "mhkeller",
+            "repo": "layercake",
+            "stars": 1786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "editable-website [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:54:54Z",
+            "owner": "michael",
+            "repo": "editable",
+            "stars": 1736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cryptgeon [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-06-28T16:52:01Z",
+            "owner": "cupcakearmy",
+            "repo": "cryptgeon",
+            "stars": 1504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dotfyle [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-06-30T00:59:01Z",
+            "owner": "codicocodes",
+            "repo": "dotfyle",
+            "stars": 1222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svelte-french-toast [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-05-15T00:23:57Z",
+            "owner": "kbrgl",
+            "repo": "svelte-french-toast",
+            "stars": 1052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svelte-put [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-06-29T07:49:10Z",
+            "owner": "vnphanquang",
+            "repo": "svelte-put",
+            "stars": 1036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Houdini GraphQL [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T06:10:52Z",
+            "owner": "HoudiniGraphql",
+            "repo": "houdini",
+            "stars": 982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tRPC-SvelteKit [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-06T12:51:55Z",
+            "owner": "icflorescu",
+            "repo": "trpc-sveltekit",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swyxkit [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Svelte",
+            "last_commit": "2025-09-22T12:38:56Z",
+            "owner": "swyxio",
+            "repo": "swyxkit",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scientific Diagrams [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-08-05T14:39:19Z",
+            "owner": "janosh",
+            "repo": "diagrams",
+            "stars": 675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Urara [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-09-11T10:49:02Z",
+            "owner": "importantimport",
+            "repo": "urara",
+            "stars": 648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saga Reader [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-11T23:53:03Z",
+            "owner": "sopaco",
+            "repo": "saga-reader",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joy of Code [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-07-17T13:38:07Z",
+            "owner": "matiadev",
+            "repo": "joy-of-code",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit static blog starter [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-03-27T18:19:29Z",
+            "owner": "josh-collinsworth",
+            "repo": "sveltekit-blog-starter",
+            "stars": 509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QWER [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-02-25T06:58:23Z",
+            "owner": "kwchang0831",
+            "repo": "svelte-QWER",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Files [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-08-09T21:24:41Z",
+            "owner": "files-community",
+            "repo": "Website",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte Society [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T18:36:37Z",
+            "owner": "svelte-society",
+            "repo": "sveltesociety.dev",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteLab [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-08-03T03:15:37Z",
+            "owner": "SvelteLab",
+            "repo": "SvelteLab",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Watch This [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-05-17T15:19:07Z",
+            "owner": "StephDietz",
+            "repo": "watch-this",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte Widgets [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:51:59Z",
+            "owner": "janosh",
+            "repo": "svelte-widgets",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neovim craft [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-17T02:07:45Z",
+            "owner": "neurosnap",
+            "repo": "neovimcraft",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MatterViz [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:54:51Z",
+            "owner": "janosh",
+            "repo": "matterviz",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern Fluid Typography Editor [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-12-09T08:28:20Z",
+            "owner": "codeAdrian",
+            "repo": "modern-fluid-typography-editor",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matt Fantinel [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-08-13T11:34:42Z",
+            "owner": "matfantinel",
+            "repo": "fantinel.dev",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte.dev [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-08-13T13:53:39Z",
+            "owner": "sveltejs",
+            "repo": "svelte.dev",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASM Editor [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T13:19:19Z",
+            "owner": "Specy",
+            "repo": "asm-editor",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Significa.co [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-07-09T13:01:32Z",
+            "owner": "significa",
+            "repo": "significa.co",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte Intl Precompile [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-03T22:53:11Z",
+            "owner": "cibernox",
+            "repo": "svelte-intl-precompile",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit Embed [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:48:23Z",
+            "owner": "spences10",
+            "repo": "sveltekit-embed",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit on Edge [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-02-21T16:15:27Z",
+            "owner": "Rich-Harris",
+            "repo": "sveltekit-on-the-edge",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hexapipes [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T07:09:23Z",
+            "owner": "gereleth",
+            "repo": "hexapipes",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svelte-command-palette [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-01-04T01:06:47Z",
+            "owner": "rohitpotato",
+            "repo": "svelte-command-palette",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixel Art Together [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-08-20T09:09:01Z",
+            "owner": "liveblocks",
+            "repo": "pixel-art-together",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auth starter app [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T16:03:56Z",
+            "owner": "passlock-dev",
+            "repo": "passlock",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sveltekit-mdsvex-blog [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-01-27T02:29:46Z",
+            "owner": "mvasigh",
+            "repo": "sveltekit-mdsvex-blog",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Statue [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-05-27T00:03:56Z",
+            "owner": "accretional",
+            "repo": "statue",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intl Explorer [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-11-15T10:49:49Z",
+            "owner": "jesperorb",
+            "repo": "intl-explorer",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svead [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:58:58Z",
+            "owner": "spences10",
+            "repo": "svead",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paper Trader Game [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-03-01T06:00:18Z",
+            "owner": "davjhan",
+            "repo": "paper-trader-game",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Pudding [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-08-04T17:38:56Z",
+            "owner": "the-pudding",
+            "repo": "website",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macOS-Themed Portfolio [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-04-29T20:01:45Z",
+            "owner": "ansxuman",
+            "repo": "macOS-Themed-Portfolio",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "connorrothschild.com [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-20T02:00:23Z",
+            "owner": "connorrothschild",
+            "repo": "v4",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guess The Year [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2021-07-17T03:49:00Z",
+            "owner": "davjhan",
+            "repo": "guess-the-year-game",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Monitor Calculator [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-10-23T06:47:59Z",
+            "owner": "KevinVandy",
+            "repo": "multi-monitor_calculator",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "barnsworthburning [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-18T15:36:28Z",
+            "owner": "Aias",
+            "repo": "barnsworthburning",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Product Plate [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T08:37:53Z",
+            "owner": "rodrgds",
+            "repo": "productplate",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenPost [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T12:00:58Z",
+            "owner": "rodrgds",
+            "repo": "openpost",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConcertMash [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-07-20T22:47:03Z",
+            "owner": "mcmxcdev",
+            "repo": "ConcertMash",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Team Health Check [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-22T12:05:30Z",
+            "owner": "codehub-kirans",
+            "repo": "team-health-check",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "digital criticism [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Svelte",
+            "last_commit": "2026-07-27T12:16:14Z",
+            "owner": "critique-digitale",
+            "repo": "critique-digitale.ch",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelvet [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-02-18T20:15:48Z",
+            "owner": "oslabs-beta",
+            "repo": "Svelvet",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Sites"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T13:56:00.340Z",
+    "original_repository": "janosh/awesome-sveltekit",
+    "original_repository_sha": "60efbdc006b530437a57ce30d221dee8497059c6",
+    "enhanced_repository": "enhansome/enhansome-sveltekit",
+    "enhanced_repository_description": null,
+    "title": "Awesome sveltekit with stars"
+  }
+}
