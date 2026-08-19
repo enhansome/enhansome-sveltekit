@@ -6,7 +6,7 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,669 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,677 | 🐛 102 | 📅 2026-08-18
 [![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](https://github.com/janosh/awesome-sveltekit/pulls) ⭐ 1,315 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-14
 [![Tests](https://github.com/janosh/awesome-sveltekit/actions/workflows/test.yml/badge.svg)](https://github.com/janosh/awesome-sveltekit/actions/workflows/test.yml) ⭐ 1,315 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-14
 [![GH Pages](https://github.com/janosh/awesome-sveltekit/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/janosh/awesome-sveltekit/actions/workflows/gh-pages.yml) ⭐ 1,315 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-14
@@ -20,14 +20,14 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
 ## Sites
 
 1. **[Open WebUI](https://docs.openwebui.com)** 
-   \[[code](https://github.com/open-webui/open-webui) ⭐ 149,225 | 🐛 379 | 🌐 Python | 📅 2026-08-19]  <a href="https://github.com/open-webui/open-webui"> <img src="https://img.shields.io/github/stars/open-webui/open-webui?logo=github" alt="GitHub stars" valign="middle"> </a>
+   \[[code](https://github.com/open-webui/open-webui) ⭐ 149,230 | 🐛 379 | 🌐 Python | 📅 2026-08-19]  <a href="https://github.com/open-webui/open-webui"> <img src="https://img.shields.io/github/stars/open-webui/open-webui?logo=github" alt="GitHub stars" valign="middle"> </a>
 
    User-friendly AI Interface (Supports Ollama, OpenAI API, ...)<br>
 
    uses: [highlight.js], [MarkedJS], [KaTeX], [TypeScript], [Tailwind]
 
 2. **[Immich](https://immich.app)** 
-   \[[code](https://github.com/immich-app/immich) ⭐ 111,616 | 🐛 717 | 🌐 TypeScript | 📅 2026-08-19]  <a href="https://github.com/immich-app/immich"> <img src="https://img.shields.io/github/stars/immich-app/immich?logo=github" alt="GitHub stars" valign="middle"> </a>
+   \[[code](https://github.com/immich-app/immich) ⭐ 111,621 | 🐛 716 | 🌐 TypeScript | 📅 2026-08-19]  <a href="https://github.com/immich-app/immich"> <img src="https://img.shields.io/github/stars/immich-app/immich?logo=github" alt="GitHub stars" valign="middle"> </a>
 
    Self-hosted photo and video backup solution directly from your mobile phone.<br>
 
@@ -83,7 +83,7 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
    uses: [TypeScript], [Docker], [Tailwind], [PostCSS], [Cypress], [Husky]
 
 10. **[Skeleton](https://skeleton.dev)** 
-    \[[code](https://github.com/skeletonlabs/skeleton) ⭐ 6,041 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-17]  <a href="https://github.com/skeletonlabs/skeleton"> <img src="https://img.shields.io/github/stars/skeletonlabs/skeleton?logo=github" alt="GitHub stars" valign="middle"> </a>
+    \[[code](https://github.com/skeletonlabs/skeleton) ⭐ 6,041 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-19]  <a href="https://github.com/skeletonlabs/skeleton"> <img src="https://img.shields.io/github/stars/skeletonlabs/skeleton?logo=github" alt="GitHub stars" valign="middle"> </a>
 
     A fully featured web UI toolkit for Svelte + Tailwind. Supports SvelteKit, Vite, and Astro.<br>
 

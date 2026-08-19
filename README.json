@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T05:09:44Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 149225
+            "stars": 149230
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 455229168,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:52:17Z",
+            "last_commit": "2026-08-19T13:14:42Z",
             "owner": "immich-app",
             "repo": "immich",
-            "stars": 111616
+            "stars": 111621
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 488804911,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:52:10Z",
+            "last_commit": "2026-08-19T13:14:16Z",
             "owner": "windmill-labs",
             "repo": "windmill",
             "stars": 17578
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 462808010,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T12:28:50Z",
+            "last_commit": "2026-08-19T13:17:25Z",
             "owner": "skeletonlabs",
             "repo": "skeleton",
             "stars": 6041
@@ -998,7 +998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:52:29.933Z",
+    "last_updated": "2026-08-19T13:24:17.367Z",
     "original_repository": "janosh/awesome-sveltekit",
     "original_repository_id": 353665258,
     "original_repository_sha": "10a7af1a13a5c376b8a46027d56934fa3d986c2e",
