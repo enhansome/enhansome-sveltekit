@@ -12,10 +12,10 @@
             "archived": false,
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-20T05:48:34Z",
+            "last_commit": "2026-08-20T20:37:53Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 149346
+            "stars": 149461
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 455229168,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T13:08:10Z",
+            "last_commit": "2026-08-21T13:11:23Z",
             "owner": "immich-app",
             "repo": "immich",
-            "stars": 112124
+            "stars": 112222
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 304344049,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T12:53:45Z",
+            "last_commit": "2026-08-21T10:24:47Z",
             "owner": "sveltejs",
             "repo": "kit",
-            "stars": 20749
+            "stars": 20750
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 488804911,
             "language": "Rust",
-            "last_commit": "2026-08-20T13:26:27Z",
+            "last_commit": "2026-08-21T13:25:03Z",
             "owner": "windmill-labs",
             "repo": "windmill",
-            "stars": 17589
+            "stars": 17597
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-10T05:53:10Z",
             "owner": "VERT-sh",
             "repo": "VERT",
-            "stars": 15382
+            "stars": 15381
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 603085008,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T10:53:42Z",
+            "last_commit": "2026-08-20T20:56:10Z",
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10901
+            "stars": 10900
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-09T08:01:50Z",
             "owner": "huntabyte",
             "repo": "shadcn-svelte",
-            "stars": 9051
+            "stars": 9054
           }
         },
         {
@@ -116,11 +116,11 @@
           "repo_info": {
             "archived": false,
             "id": 371239231,
-            "language": "JavaScript",
-            "last_commit": "2026-08-19T21:30:06Z",
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T00:27:01Z",
             "owner": "evidence-dev",
             "repo": "evidence",
-            "stars": 6864
+            "stars": 6867
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 223260063,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T04:29:02Z",
+            "last_commit": "2026-08-20T20:52:17Z",
             "owner": "mermaid-js",
             "repo": "mermaid-live-editor",
-            "stars": 6762
+            "stars": 6763
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 462808010,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T15:27:31Z",
+            "last_commit": "2026-08-20T16:31:21Z",
             "owner": "skeletonlabs",
             "repo": "skeleton",
             "stars": 6047
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-04T00:17:40Z",
             "owner": "hperrin",
             "repo": "svelte-material-ui",
-            "stars": 3441
+            "stars": 3440
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-06-30T04:12:28Z",
             "owner": "stemrollerapp",
             "repo": "stemroller",
-            "stars": 3152
+            "stars": 3153
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-07-05T07:33:00Z",
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2655
+            "stars": 2657
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2026-08-11T16:45:22Z",
             "owner": "mhkeller",
             "repo": "layercake",
-            "stars": 1787
+            "stars": 1788
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-06-28T16:52:01Z",
             "owner": "cupcakearmy",
             "repo": "cryptgeon",
-            "stars": 1506
+            "stars": 1508
           }
         },
         {
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 498793280,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T11:32:29Z",
+            "last_commit": "2026-08-21T13:14:02Z",
             "owner": "janosh",
             "repo": "matterviz",
             "stars": 356
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 813142019,
             "language": "Svelte",
-            "last_commit": "2026-08-20T13:23:45Z",
+            "last_commit": "2026-08-21T12:20:50Z",
             "owner": "sveltejs",
             "repo": "svelte.dev",
             "stars": 326
@@ -672,7 +672,7 @@
             "archived": false,
             "id": 387004664,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T05:05:18Z",
+            "last_commit": "2026-08-20T22:31:39Z",
             "owner": "spences10",
             "repo": "sveltekit-embed",
             "stars": 239
@@ -807,7 +807,7 @@
             "archived": false,
             "id": 492505127,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T01:07:08Z",
+            "last_commit": "2026-08-21T06:05:02Z",
             "owner": "spences10",
             "repo": "svead",
             "stars": 112
@@ -942,10 +942,10 @@
             "archived": false,
             "id": 1187916096,
             "language": "Go",
-            "last_commit": "2026-08-20T07:38:17Z",
+            "last_commit": "2026-08-21T11:33:53Z",
             "owner": "getopenpost",
             "repo": "openpost",
-            "stars": 25
+            "stars": 28
           }
         },
         {
@@ -998,7 +998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:26:33.826Z",
+    "last_updated": "2026-08-21T13:25:23.478Z",
     "original_repository": "janosh/awesome-sveltekit",
     "original_repository_id": 353665258,
     "original_repository_sha": "10a7af1a13a5c376b8a46027d56934fa3d986c2e",
