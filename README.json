@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Open WebUI [code",
-          "description": "]",
+          "title": "Open WebUI",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,28 +15,28 @@
             "last_commit": "2026-08-24T11:36:44Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 149761
+            "stars": 149762
           }
         },
         {
           "node_type": "item",
-          "title": "Immich [code",
-          "description": "]",
+          "title": "Immich",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 455229168,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:51:32Z",
+            "last_commit": "2026-08-24T14:08:08Z",
             "owner": "immich-app",
             "repo": "immich",
-            "stars": 112540
+            "stars": 112543
           }
         },
         {
           "node_type": "item",
-          "title": "Official SvelteKit docs [code",
-          "description": "]",
+          "title": "Official SvelteKit docs",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,14 +50,14 @@
         },
         {
           "node_type": "item",
-          "title": "Windmill [code",
-          "description": "]",
+          "title": "Windmill",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 488804911,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:26:25Z",
+            "last_commit": "2026-08-24T13:55:24Z",
             "owner": "windmill-labs",
             "repo": "windmill",
             "stars": 17657
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "VERT [code",
-          "description": "]",
+          "title": "VERT",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "Chat UI [code",
-          "description": "]",
+          "title": "Chat UI",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "shadcn-svelte [code",
-          "description": "]",
+          "title": "shadcn-svelte",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,8 +110,8 @@
         },
         {
           "node_type": "item",
-          "title": "evidence [code",
-          "description": "]",
+          "title": "evidence",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,8 +125,8 @@
         },
         {
           "node_type": "item",
-          "title": "mermaid-live-editor [code",
-          "description": "]",
+          "title": "mermaid-live-editor",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "Skeleton [code",
-          "description": "]",
+          "title": "Skeleton",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "Fireship [code",
-          "description": "]",
+          "title": "Fireship",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,8 +170,8 @@
         },
         {
           "node_type": "item",
-          "title": "Svelte Material UI [code",
-          "description": "]",
+          "title": "Svelte Material UI",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "Threlte [code",
-          "description": "]",
+          "title": "Threlte",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "StemRoller [code",
-          "description": "]",
+          "title": "StemRoller",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,8 +215,8 @@
         },
         {
           "node_type": "item",
-          "title": "Flowbite [code",
-          "description": "]",
+          "title": "Flowbite",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,8 +230,8 @@
         },
         {
           "node_type": "item",
-          "title": "macos-web [code",
-          "description": "]",
+          "title": "macos-web",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,8 +245,8 @@
         },
         {
           "node_type": "item",
-          "title": "svelte-realworld [code",
-          "description": "]",
+          "title": "svelte-realworld",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -260,8 +260,8 @@
         },
         {
           "node_type": "item",
-          "title": "Svelte Commerce [code",
-          "description": "]",
+          "title": "Svelte Commerce",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,8 +275,8 @@
         },
         {
           "node_type": "item",
-          "title": "Svelte Headless UI [code",
-          "description": "]",
+          "title": "Svelte Headless UI",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -290,8 +290,8 @@
         },
         {
           "node_type": "item",
-          "title": "Layer Cake [code",
-          "description": "]",
+          "title": "Layer Cake",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -305,8 +305,8 @@
         },
         {
           "node_type": "item",
-          "title": "editable-website [code",
-          "description": "]",
+          "title": "editable-website",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,8 +320,8 @@
         },
         {
           "node_type": "item",
-          "title": "Cryptgeon [code",
-          "description": "]",
+          "title": "Cryptgeon",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,8 +335,8 @@
         },
         {
           "node_type": "item",
-          "title": "Dotfyle [code",
-          "description": "]",
+          "title": "Dotfyle",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -350,8 +350,8 @@
         },
         {
           "node_type": "item",
-          "title": "svelte-french-toast [code",
-          "description": "]",
+          "title": "svelte-french-toast",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,8 +365,8 @@
         },
         {
           "node_type": "item",
-          "title": "svelte-put [code",
-          "description": "]",
+          "title": "svelte-put",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -380,8 +380,8 @@
         },
         {
           "node_type": "item",
-          "title": "Houdini GraphQL [code",
-          "description": "]",
+          "title": "Houdini GraphQL",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,8 +395,8 @@
         },
         {
           "node_type": "item",
-          "title": "tRPC-SvelteKit [code",
-          "description": "]",
+          "title": "tRPC-SvelteKit",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -410,8 +410,8 @@
         },
         {
           "node_type": "item",
-          "title": "Scientific Diagrams [code",
-          "description": "]",
+          "title": "Scientific Diagrams",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -425,8 +425,8 @@
         },
         {
           "node_type": "item",
-          "title": "Urara [code",
-          "description": "]",
+          "title": "Urara",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,8 +440,8 @@
         },
         {
           "node_type": "item",
-          "title": "Saga Reader [code",
-          "description": "]",
+          "title": "Saga Reader",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -455,8 +455,8 @@
         },
         {
           "node_type": "item",
-          "title": "Joy of Code [code",
-          "description": "]",
+          "title": "Joy of Code",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,8 +470,8 @@
         },
         {
           "node_type": "item",
-          "title": "SvelteKit static blog starter [code",
-          "description": "]",
+          "title": "SvelteKit static blog starter",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -485,8 +485,8 @@
         },
         {
           "node_type": "item",
-          "title": "QWER [code",
-          "description": "]",
+          "title": "QWER",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -500,8 +500,8 @@
         },
         {
           "node_type": "item",
-          "title": "Files [code",
-          "description": "]",
+          "title": "Files",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,8 +515,8 @@
         },
         {
           "node_type": "item",
-          "title": "Svelte Society [code",
-          "description": "]",
+          "title": "Svelte Society",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,8 +530,8 @@
         },
         {
           "node_type": "item",
-          "title": "SvelteLab [code",
-          "description": "]",
+          "title": "SvelteLab",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -545,8 +545,8 @@
         },
         {
           "node_type": "item",
-          "title": "Svelte Widgets [code",
-          "description": "]",
+          "title": "Svelte Widgets",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,8 +560,8 @@
         },
         {
           "node_type": "item",
-          "title": "neovim craft [code",
-          "description": "]",
+          "title": "neovim craft",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -575,14 +575,14 @@
         },
         {
           "node_type": "item",
-          "title": "MatterViz [code",
-          "description": "]",
+          "title": "MatterViz",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 498793280,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:25:12Z",
+            "last_commit": "2026-08-24T14:03:31Z",
             "owner": "janosh",
             "repo": "matterviz",
             "stars": 356
@@ -590,8 +590,8 @@
         },
         {
           "node_type": "item",
-          "title": "Matt Fantinel [code",
-          "description": "]",
+          "title": "Matt Fantinel",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -605,14 +605,14 @@
         },
         {
           "node_type": "item",
-          "title": "Svelte.dev [code",
-          "description": "]",
+          "title": "Svelte.dev",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 813142019,
             "language": "Svelte",
-            "last_commit": "2026-08-24T13:19:41Z",
+            "last_commit": "2026-08-24T13:47:01Z",
             "owner": "sveltejs",
             "repo": "svelte.dev",
             "stars": 326
@@ -620,8 +620,8 @@
         },
         {
           "node_type": "item",
-          "title": "ASM Editor [code",
-          "description": "]",
+          "title": "ASM Editor",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -635,8 +635,8 @@
         },
         {
           "node_type": "item",
-          "title": "Significa.co [code",
-          "description": "]",
+          "title": "Significa.co",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -650,8 +650,8 @@
         },
         {
           "node_type": "item",
-          "title": "Svelte Intl Precompile [code",
-          "description": "]",
+          "title": "Svelte Intl Precompile",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -665,8 +665,8 @@
         },
         {
           "node_type": "item",
-          "title": "SvelteKit Embed [code",
-          "description": "]",
+          "title": "SvelteKit Embed",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -680,8 +680,8 @@
         },
         {
           "node_type": "item",
-          "title": "SvelteKit on Edge [code",
-          "description": "]",
+          "title": "SvelteKit on Edge",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -695,8 +695,8 @@
         },
         {
           "node_type": "item",
-          "title": "Hexapipes [code",
-          "description": "]",
+          "title": "Hexapipes",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -710,8 +710,8 @@
         },
         {
           "node_type": "item",
-          "title": "svelte-command-palette [code",
-          "description": "]",
+          "title": "svelte-command-palette",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -725,8 +725,8 @@
         },
         {
           "node_type": "item",
-          "title": "Pixel Art Together [code",
-          "description": "]",
+          "title": "Pixel Art Together",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -740,8 +740,8 @@
         },
         {
           "node_type": "item",
-          "title": "Auth starter app [code",
-          "description": "]",
+          "title": "Auth starter app",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -755,8 +755,8 @@
         },
         {
           "node_type": "item",
-          "title": "sveltekit-mdsvex-blog [code",
-          "description": "]",
+          "title": "sveltekit-mdsvex-blog",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -770,8 +770,8 @@
         },
         {
           "node_type": "item",
-          "title": "Statue [code",
-          "description": "]",
+          "title": "Statue",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -785,8 +785,8 @@
         },
         {
           "node_type": "item",
-          "title": "Intl Explorer [code",
-          "description": "]",
+          "title": "Intl Explorer",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -800,8 +800,8 @@
         },
         {
           "node_type": "item",
-          "title": "Svead [code",
-          "description": "]",
+          "title": "Svead",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -815,8 +815,8 @@
         },
         {
           "node_type": "item",
-          "title": "Paper Trader Game [code",
-          "description": "]",
+          "title": "Paper Trader Game",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -830,8 +830,8 @@
         },
         {
           "node_type": "item",
-          "title": "The Pudding [code",
-          "description": "]",
+          "title": "The Pudding",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -845,8 +845,8 @@
         },
         {
           "node_type": "item",
-          "title": "macOS-Themed Portfolio [code",
-          "description": "]",
+          "title": "macOS-Themed Portfolio",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -860,8 +860,8 @@
         },
         {
           "node_type": "item",
-          "title": "connorrothschild.com [code",
-          "description": "]",
+          "title": "connorrothschild.com",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -875,8 +875,8 @@
         },
         {
           "node_type": "item",
-          "title": "Guess The Year [code",
-          "description": "]",
+          "title": "Guess The Year",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -890,8 +890,8 @@
         },
         {
           "node_type": "item",
-          "title": "Multi-Monitor Calculator [code",
-          "description": "]",
+          "title": "Multi-Monitor Calculator",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -905,8 +905,8 @@
         },
         {
           "node_type": "item",
-          "title": "barnsworthburning [code",
-          "description": "]",
+          "title": "barnsworthburning",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -920,8 +920,8 @@
         },
         {
           "node_type": "item",
-          "title": "Product Plate [code",
-          "description": "]",
+          "title": "Product Plate",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -935,8 +935,8 @@
         },
         {
           "node_type": "item",
-          "title": "OpenPost [code",
-          "description": "]",
+          "title": "OpenPost",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -950,8 +950,8 @@
         },
         {
           "node_type": "item",
-          "title": "ConcertMash [code",
-          "description": "]",
+          "title": "ConcertMash",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -965,8 +965,8 @@
         },
         {
           "node_type": "item",
-          "title": "Team Health Check [code",
-          "description": "]",
+          "title": "Team Health Check",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -980,8 +980,8 @@
         },
         {
           "node_type": "item",
-          "title": "Svelvet [code",
-          "description": "]",
+          "title": "Svelvet",
+          "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -998,7 +998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:29:34.850Z",
+    "last_updated": "2026-08-24T14:11:51.905Z",
     "original_repository": "janosh/awesome-sveltekit",
     "original_repository_id": 353665258,
     "original_repository_sha": "10a7af1a13a5c376b8a46027d56934fa3d986c2e",
