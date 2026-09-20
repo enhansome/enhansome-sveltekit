@@ -6,9 +6,9 @@
 
 <h4 align="center">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,769 | 🐛 106 | 📅 2026-09-02
-[![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](https://github.com/janosh/awesome-sveltekit/pulls) ⭐ 1,323 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01
-[![CI](https://github.com/janosh/awesome-sveltekit/actions/workflows/ci.yml/badge.svg)](https://github.com/janosh/awesome-sveltekit/actions/workflows/ci.yml) ⭐ 1,323 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,130 | 🐛 106 | 📅 2026-09-02
+[![Pull Requests Welcome](https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen.svg?logo=github)](https://github.com/janosh/awesome-sveltekit/pulls) ⭐ 1,322 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01
+[![CI](https://github.com/janosh/awesome-sveltekit/actions/workflows/ci.yml/badge.svg)](https://github.com/janosh/awesome-sveltekit/actions/workflows/ci.yml) ⭐ 1,322 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01
 
 </h4>
 
@@ -19,90 +19,90 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
 ## Sites
 
 1. **[Open WebUI](https://docs.openwebui.com)** 
-   \[[code](https://github.com/open-webui/open-webui) ⭐ 152,536 | 🐛 318 | 🌐 Python | 📅 2026-09-19] 
+   \[[code](https://github.com/open-webui/open-webui) ⭐ 152,611 | 🐛 326 | 🌐 Python | 📅 2026-09-19] 
    [ <img src="https://img.shields.io/github/stars/open-webui/open-webui?logo=github" alt="GitHub stars" valign="middle">
-   ](https://github.com/open-webui/open-webui) ⭐ 152,536 | 🐛 318 | 🌐 Python | 📅 2026-09-19
+   ](https://github.com/open-webui/open-webui) ⭐ 152,611 | 🐛 326 | 🌐 Python | 📅 2026-09-19
 
    User-friendly AI Interface (Supports Ollama, OpenAI API, ...)<br>
 
    uses: [highlight.js], [MarkedJS], [KaTeX], [TypeScript], [Tailwind]
 
 2. **[Immich](https://immich.app)** 
-   \[[code](https://github.com/immich-app/immich) ⭐ 114,597 | 🐛 728 | 🌐 TypeScript | 📅 2026-09-19] 
+   \[[code](https://github.com/immich-app/immich) ⭐ 114,660 | 🐛 731 | 🌐 TypeScript | 📅 2026-09-20] 
    [ <img src="https://img.shields.io/github/stars/immich-app/immich?logo=github" alt="GitHub stars" valign="middle">
-   ](https://github.com/immich-app/immich) ⭐ 114,597 | 🐛 728 | 🌐 TypeScript | 📅 2026-09-19
+   ](https://github.com/immich-app/immich) ⭐ 114,660 | 🐛 731 | 🌐 TypeScript | 📅 2026-09-20
 
    Self-hosted photo and video backup solution directly from your mobile phone.<br>
 
    uses: [NestJS], [TypeScript], [Tailwind], [Flutter], [Python]
 
 3. **[Official SvelteKit docs](https://svelte.dev/docs/kit)** 
-   \[[code](https://github.com/sveltejs/kit/tree/main/documentation/docs) ⭐ 20,819 | 🐛 807 | 🌐 JavaScript | 📅 2026-09-19] 
+   \[[code](https://github.com/sveltejs/kit/tree/main/documentation/docs) ⭐ 20,820 | 🐛 806 | 🌐 JavaScript | 📅 2026-09-19] 
    [ <img src="https://img.shields.io/github/stars/sveltejs/kit?logo=github" alt="GitHub stars" valign="middle">
-   ](https://github.com/sveltejs/kit) ⭐ 20,819 | 🐛 807 | 🌐 JavaScript | 📅 2026-09-19
+   ](https://github.com/sveltejs/kit) ⭐ 20,820 | 🐛 806 | 🌐 JavaScript | 📅 2026-09-19
 
    The fastest way to build Svelte apps.<br>
 
    uses: [Netlify], [PNPM]
 
 4. **[Windmill](https://windmill.dev)** 
-   \[[code](https://github.com/windmill-labs/windmill/blob/-/frontend) ⭐ 17,978 | 🐛 870 | 🌐 Rust | 📅 2026-09-19] 
+   \[[code](https://github.com/windmill-labs/windmill/blob/-/frontend) ⭐ 17,986 | 🐛 867 | 🌐 Rust | 📅 2026-09-20] 
    [ <img src="https://img.shields.io/github/stars/windmill-labs/windmill?logo=github" alt="GitHub stars" valign="middle">
-   ](https://github.com/windmill-labs/windmill) ⭐ 17,978 | 🐛 870 | 🌐 Rust | 📅 2026-09-19
+   ](https://github.com/windmill-labs/windmill) ⭐ 17,986 | 🐛 867 | 🌐 Rust | 📅 2026-09-20
 
    An OSS developer platform to build multi-step automations and internal apps from minimal Python and TypeScript scripts.<br>
 
    uses: [TypeScript], [Tailwind], [cssnano], [Cypress], [PostCSS], [svelte-highlight], [svelte-markdown]
 
 5. **[VERT](https://vert.sh)** 
-   \[[code](https://github.com/VERT-sh/VERT) ⭐ 15,619 | 🐛 61 | 🌐 Svelte | 📅 2026-09-18] 
+   \[[code](https://github.com/VERT-sh/VERT) ⭐ 15,623 | 🐛 61 | 🌐 Svelte | 📅 2026-09-18] 
    [ <img src="https://img.shields.io/github/stars/VERT-sh/VERT?logo=github" alt="GitHub stars" valign="middle">
-   ](https://github.com/VERT-sh/VERT) ⭐ 15,619 | 🐛 61 | 🌐 Svelte | 📅 2026-09-18
+   ](https://github.com/VERT-sh/VERT) ⭐ 15,623 | 🐛 61 | 🌐 Svelte | 📅 2026-09-18
 
    A file converter that converts files client-side while being completely ad-free.<br>
 
    uses: [TypeScript], [Tailwind], [Coolify], [WASM], [FFmpeg], [libvips], [Plausible]
 
 6. **[Chat UI](https://huggingface.co/chat)** 
-   \[[code](https://github.com/huggingface/chat-ui) ⭐ 10,952 | 🐛 289 | 🌐 TypeScript | 📅 2026-09-18] 
+   \[[code](https://github.com/huggingface/chat-ui) ⭐ 10,951 | 🐛 289 | 🌐 TypeScript | 📅 2026-09-18] 
    [ <img src="https://img.shields.io/github/stars/huggingface/chat-ui?logo=github" alt="GitHub stars" valign="middle">
-   ](https://github.com/huggingface/chat-ui) ⭐ 10,952 | 🐛 289 | 🌐 TypeScript | 📅 2026-09-18
+   ](https://github.com/huggingface/chat-ui) ⭐ 10,951 | 🐛 289 | 🌐 TypeScript | 📅 2026-09-18
 
    Powers the HuggingChat app. Making the community's best AI chat models available to everyone.<br>
 
    uses: [Huggingface Inference], [Huggingface Hub], [Tailwind]
 
 7. **[shadcn-svelte](https://shadcn-svelte.com)** 
-   \[[code](https://github.com/huntabyte/shadcn-svelte/tree/96e8866/docs) ⭐ 9,136 | 🐛 122 | 🌐 TypeScript | 📅 2026-09-17] 
+   \[[code](https://github.com/huntabyte/shadcn-svelte/tree/96e8866/docs) ⭐ 9,138 | 🐛 123 | 🌐 TypeScript | 📅 2026-09-17] 
    [ <img src="https://img.shields.io/github/stars/huntabyte/shadcn-svelte?logo=github" alt="GitHub stars" valign="middle">
-   ](https://github.com/huntabyte/shadcn-svelte) ⭐ 9,136 | 🐛 122 | 🌐 TypeScript | 📅 2026-09-17
+   ](https://github.com/huntabyte/shadcn-svelte) ⭐ 9,138 | 🐛 123 | 🌐 TypeScript | 📅 2026-09-17
 
    shadcn/ui, but for Svelte.<br>
 
    uses: [TypeScript], [Vercel], [Tailwind], [PNPM], [Changesets], [Vitest], [Prism], [MarkedJS]
 
 8. **[evidence](https://evidence.dev)** 
-   \[[code](https://github.com/evidence-dev/evidence) ⭐ 6,950 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-18] 
+   \[[code](https://github.com/evidence-dev/evidence) ⭐ 6,949 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-18] 
    [ <img src="https://img.shields.io/github/stars/evidence-dev/evidence?logo=github" alt="GitHub stars" valign="middle">
-   ](https://github.com/evidence-dev/evidence) ⭐ 6,950 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-18
+   ](https://github.com/evidence-dev/evidence) ⭐ 6,949 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-18
 
    Evidence enables analysts to deliver a polished business intelligence system using SQL and markdown.<br>
 
    uses: [PNPM], [Changesets], [echarts], [uvu]
 
 9. **[mermaid-live-editor](https://mermaid.live)** 
-   \[[code](https://github.com/mermaid-js/mermaid-live-editor) ⭐ 6,812 | 🐛 97 | 🌐 TypeScript | 📅 2026-09-19] 
+   \[[code](https://github.com/mermaid-js/mermaid-live-editor) ⭐ 6,813 | 🐛 97 | 🌐 TypeScript | 📅 2026-09-19] 
    [ <img src="https://img.shields.io/github/stars/mermaid-js/mermaid-live-editor?logo=github" alt="GitHub stars" valign="middle">
-   ](https://github.com/mermaid-js/mermaid-live-editor) ⭐ 6,812 | 🐛 97 | 🌐 TypeScript | 📅 2026-09-19
+   ](https://github.com/mermaid-js/mermaid-live-editor) ⭐ 6,813 | 🐛 97 | 🌐 TypeScript | 📅 2026-09-19
 
    Edit, live preview and share mermaid charts and diagrams.<br>
 
    uses: [TypeScript], [Docker], [Tailwind], [PostCSS], [Cypress], [Husky]
 
 10. **[Skeleton](https://skeleton.dev)** 
-    \[[code](https://github.com/skeletonlabs/skeleton) ⭐ 6,060 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-19] 
+    \[[code](https://github.com/skeletonlabs/skeleton) ⭐ 6,060 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-20] 
     [ <img src="https://img.shields.io/github/stars/skeletonlabs/skeleton?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/skeletonlabs/skeleton) ⭐ 6,060 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-19
+    ](https://github.com/skeletonlabs/skeleton) ⭐ 6,060 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-20
 
     A fully featured web UI toolkit for Svelte + Tailwind. Supports SvelteKit, Vite, and Astro.<br>
 
@@ -154,9 +154,9 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
     uses: [PNPM], [TypeScript], [Tailwind], [MDsveX], [Prism], [PostCSS], [Playwright]
 
 16. **[macos-web](https://macos-web.app)** 
-    \[[code](https://github.com/PuruVJ/macos-web) ⭐ 2,668 | 🐛 46 | 🌐 Svelte | 📅 2026-07-05] 
+    \[[code](https://github.com/PuruVJ/macos-web) ⭐ 2,668 | 🐛 45 | 🌐 Svelte | 📅 2026-07-05] 
     [ <img src="https://img.shields.io/github/stars/PuruVJ/macos-web?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/PuruVJ/macos-web) ⭐ 2,668 | 🐛 46 | 🌐 Svelte | 📅 2026-07-05
+    ](https://github.com/PuruVJ/macos-web) ⭐ 2,668 | 🐛 45 | 🌐 Svelte | 📅 2026-07-05
 
     Replicate some of the macOS desktop experience on the web.<br>
 
@@ -190,9 +190,9 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
     uses: [MDsveX], [TypeScript], [PostCSS], [Tailwind], [cssnano], [Jest], [rehype]
 
 20. **[Layer Cake](https://layercake.graphics)** 
-    \[[code](https://github.com/mhkeller/layercake) ⭐ 1,793 | 🐛 1 | 🌐 Svelte | 📅 2026-09-09] 
+    \[[code](https://github.com/mhkeller/layercake) ⭐ 1,792 | 🐛 1 | 🌐 Svelte | 📅 2026-09-09] 
     [ <img src="https://img.shields.io/github/stars/mhkeller/layercake?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/mhkeller/layercake) ⭐ 1,793 | 🐛 1 | 🌐 Svelte | 📅 2026-09-09
+    ](https://github.com/mhkeller/layercake) ⭐ 1,792 | 🐛 1 | 🌐 Svelte | 📅 2026-09-09
 
     Graphics framework for Svelte with colorful demo page. Can generate responsive graphics server-side that work without JavaScript.<br>
 
@@ -280,18 +280,18 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
     uses: [MDsveX], [PostCSS], [Tailwind], [DaisyUI], [TypeScript], [PNPM]
 
 30. **[OpenPost](https://openpo.st)** 
-    \[[code](https://github.com/getopenpost/openpost/tree/main/frontend) ⭐ 582 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-19] 
+    \[[code](https://github.com/getopenpost/openpost/tree/main/frontend) ⭐ 589 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-20] 
     [ <img src="https://img.shields.io/github/stars/getopenpost/openpost?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/getopenpost/openpost) ⭐ 582 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-19
+    ](https://github.com/getopenpost/openpost) ⭐ 589 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-20
 
     Self-hosted social media scheduler with an MCP server, CLI, and API.<br>
 
     uses: [SvelteKit], [Go], [TypeScript], [Tailwind], [PNPM], [Docker], [SQLite], [PostgreSQL], [Playwright]
 
 31. **[Saga Reader](https://aiqino.netlify.app)** 
-    \[[code](https://github.com/sopaco/saga-reader) ⭐ 535 | 🐛 4 | 🌐 Rust | 📅 2026-07-11] 
+    \[[code](https://github.com/sopaco/saga-reader) ⭐ 536 | 🐛 4 | 🌐 Rust | 📅 2026-07-11] 
     [ <img src="https://img.shields.io/github/stars/sopaco/saga-reader?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/sopaco/saga-reader) ⭐ 535 | 🐛 4 | 🌐 Rust | 📅 2026-07-11
+    ](https://github.com/sopaco/saga-reader) ⭐ 536 | 🐛 4 | 🌐 Rust | 📅 2026-07-11
 
     Blazing-fast and extremely lightweight AI-powered internet reader. Your AI-driven think tank assistant built with Rust, Tauri and Svelte.<br>
 
@@ -343,18 +343,18 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
     uses: [TypeScript], [Gitpod]
 
 37. **[SvelteLab](https://sveltelab.dev)** 
-    \[[code](https://github.com/sveltelab/sveltelab) ⭐ 448 | 🐛 65 | 🌐 Svelte | 📅 2026-09-14] 
+    \[[code](https://github.com/sveltelab/sveltelab) ⭐ 447 | 🐛 65 | 🌐 Svelte | 📅 2026-09-14] 
     [ <img src="https://img.shields.io/github/stars/sveltelab/sveltelab?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/sveltelab/sveltelab) ⭐ 448 | 🐛 65 | 🌐 Svelte | 📅 2026-09-14
+    ](https://github.com/sveltelab/sveltelab) ⭐ 447 | 🐛 65 | 🌐 Svelte | 📅 2026-09-14
 
     Supercharged REPL for Svelte (think StackBlitz specialized for Svelte)<br>
 
     uses: [Playwright], [Vitest], [Iconify], [MarkedJS], [TypeScript], [PNPM], [Pocketbase], [Vercel], [Tailwind]
 
 38. **[Svelte Widgets](https://svelte-widgets.janosh.dev)** 
-    \[[code](https://github.com/janosh/svelte-widgets) ⭐ 380 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-16] 
+    \[[code](https://github.com/janosh/svelte-widgets) ⭐ 380 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20] 
     [ <img src="https://img.shields.io/github/stars/janosh/svelte-widgets?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/janosh/svelte-widgets) ⭐ 380 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-16
+    ](https://github.com/janosh/svelte-widgets) ⭐ 380 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20
 
     Keyboard-friendly, accessible Svelte components — MultiSelect, Toc, Masonry, CommandMenu, and more.<br>
 
@@ -370,27 +370,27 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
     uses: [TypeScript], [Husky]
 
 40. **[MatterViz](https://matterviz.janosh.dev)** 
-    \[[code](https://github.com/janosh/matterviz) ⭐ 361 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-19] 
+    \[[code](https://github.com/janosh/matterviz) ⭐ 361 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-20] 
     [ <img src="https://img.shields.io/github/stars/janosh/matterviz?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/janosh/matterviz) ⭐ 361 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-19
+    ](https://github.com/janosh/matterviz) ⭐ 361 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-20
 
     Interactive visualizations for materials science: periodic tables, 3d crystal structures, molecules, Bohr atoms, nuclei, heatmaps, scatter plots.<br>
 
     uses: [TypeScript], [pre-commit], [D3], [svelte-widgets], [Vitest], [Playwright], [PNPM], [jsdom], [GitHub Pages]
 
 41. **[Matt Fantinel](https://fantinel.dev)** 
-    \[[code](https://github.com/matfantinel/fantinel.dev) ⭐ 335 | 🐛 0 | 🌐 Svelte | 📅 2026-09-18] 
+    \[[code](https://github.com/matfantinel/fantinel.dev) ⭐ 335 | 🐛 0 | 🌐 Svelte | 📅 2026-09-19] 
     [ <img src="https://img.shields.io/github/stars/matfantinel/fantinel.dev?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/matfantinel/fantinel.dev) ⭐ 335 | 🐛 0 | 🌐 Svelte | 📅 2026-09-18
+    ](https://github.com/matfantinel/fantinel.dev) ⭐ 335 | 🐛 0 | 🌐 Svelte | 📅 2026-09-19
 
     Personal website and blog of Matt Fantinel, web developer.<br>
 
     uses: [Astro], [SCSS], [Vercel], [TypeScript], [Storybook]
 
 42. **[Svelte.dev](https://svelte.dev)** 
-    \[[code](https://github.com/sveltejs/svelte.dev) ⭐ 330 | 🐛 156 | 🌐 Svelte | 📅 2026-09-19] 
+    \[[code](https://github.com/sveltejs/svelte.dev) ⭐ 330 | 🐛 157 | 🌐 Svelte | 📅 2026-09-20] 
     [ <img src="https://img.shields.io/github/stars/sveltejs/svelte.dev?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/sveltejs/svelte.dev) ⭐ 330 | 🐛 156 | 🌐 Svelte | 📅 2026-09-19
+    ](https://github.com/sveltejs/svelte.dev) ⭐ 330 | 🐛 157 | 🌐 Svelte | 📅 2026-09-20
 
     Cybernetically enhanced web apps.<br>
 
@@ -460,9 +460,9 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
     uses: [TypeScript], [Playwright], [PostCSS], [Tailwind], [Release It], [Vercel]
 
 50. **[Hexapipes](https://hexapipes.vercel.app)** 
-    \[[code](https://github.com/gereleth/hexapipes) ⭐ 218 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-13] 
+    \[[code](https://github.com/gereleth/hexapipes) ⭐ 218 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-20] 
     [ <img src="https://img.shields.io/github/stars/gereleth/hexapipes?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/gereleth/hexapipes) ⭐ 218 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-13
+    ](https://github.com/gereleth/hexapipes) ⭐ 218 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-20
 
     Browser game where the goal is to correctly line up pipes placed on hexagonal puzzle pieces.<br>
 
@@ -478,9 +478,9 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
     uses: [TypeScript], [Liveblocks], [Tailwind], [PostCSS], [panzoom]
 
 52. **[Auth starter app](https://passlock.dev)** 
-    \[[code](https://github.com/passlock-dev/passlock) ⭐ 190 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-17] 
+    \[[code](https://github.com/passlock-dev/passlock) ⭐ 191 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-17] 
     [ <img src="https://img.shields.io/github/stars/passlock-dev/passlock?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/passlock-dev/passlock) ⭐ 190 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-17
+    ](https://github.com/passlock-dev/passlock) ⭐ 191 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-17
 
     SvelteKit template featuring Passkeys, Social Sign in and more.<br>
 
@@ -514,9 +514,9 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
     uses: [TypeScript], [PNPM], [Playwright], [Vercel], [svelte-highlight], [Husky], [commitlint]
 
 56. **[Svead](https://svead.pages.dev)** 
-    \[[code](https://github.com/spences10/svead) ⭐ 113 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-19] 
+    \[[code](https://github.com/spences10/svead) ⭐ 113 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-20] 
     [ <img src="https://img.shields.io/github/stars/spences10/svead?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/spences10/svead) ⭐ 113 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-19
+    ](https://github.com/spences10/svead) ⭐ 113 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-20
 
     Svead 🍺, a component that allows you to set head meta information, canonical, title, Twitter and Facebook Open Graph tags, and schema.org data.<br>
 
@@ -532,9 +532,9 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
     uses: [Tailwind], [Netlify], [Chart.js], [Plausible]
 
 58. **[The Pudding](https://pudding.cool)** 
-    \[[code](https://github.com/the-pudding/website) ⭐ 94 | 🐛 0 | 🌐 Svelte | 📅 2026-08-04] 
+    \[[code](https://github.com/the-pudding/website) ⭐ 93 | 🐛 0 | 🌐 Svelte | 📅 2026-08-04] 
     [ <img src="https://img.shields.io/github/stars/the-pudding/website?logo=github" alt="GitHub stars" valign="middle">
-    ](https://github.com/the-pudding/website) ⭐ 94 | 🐛 0 | 🌐 Svelte | 📅 2026-08-04
+    ](https://github.com/the-pudding/website) ⭐ 93 | 🐛 0 | 🌐 Svelte | 📅 2026-08-04
 
     Digital publication with emphasis on data viz.<br>
 
@@ -901,16 +901,16 @@ Awesome examples of SvelteKit in the wild. Visit **[awesome-sveltekit.janosh.dev
 
 ## 🎉 Suggestions Welcome
 
-Want to add an open-source project to this list? [PRs welcome](https://github.com/janosh/awesome-sveltekit/edit/main/sites.yml) ⭐ 1,323 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01! This collection is a community effort intended as a learning resource for Svelte devs. Entry requirements:
+Want to add an open-source project to this list? [PRs welcome](https://github.com/janosh/awesome-sveltekit/edit/main/sites.yml) ⭐ 1,322 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01! This collection is a community effort intended as a learning resource for Svelte devs. Entry requirements:
 
 1. **open source**: While a site with private code can give design and feature ideas, there's little educational value if you can't inspect how it was made.
 2. **novel**: Not just another blog or todo app. Ideally, some application or technology not already covered in this collection.
 3. **popular**: At least 50 stars on GitHub or reasonable expectation to reach that number soon.
 
-These requirements arose over time so not all existing entries satisfy them. There can also be tradeoffs. For example, if novelty is very high, popularity can be lower. If you're unsure, please [open a discussion](https://github.com/janosh/awesome-sveltekit/discussions) ⭐ 1,323 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01 first.
+These requirements arose over time so not all existing entries satisfy them. There can also be tradeoffs. For example, if novelty is very high, popularity can be lower. If you're unsure, please [open a discussion](https://github.com/janosh/awesome-sveltekit/discussions) ⭐ 1,322 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01 first.
 
 A good place to discover influential Svelte projects (not necessarily SvelteKit) is [GitHub Trending](https://github.com/trending/svelte?since=monthly). If anything on that list stands out to you but is missing here, please add it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
