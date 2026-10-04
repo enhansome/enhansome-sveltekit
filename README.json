@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T13:06:04Z",
-            "open_issues": 281,
+            "open_issues": 284,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 153864,
+            "stars": 153936,
             "topics": [
               "ai",
               "llm",
@@ -52,11 +52,11 @@
             "id": 455229168,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T13:51:26Z",
-            "open_issues": 673,
+            "last_commit": "2026-10-04T11:51:28Z",
+            "open_issues": 672,
             "owner": "immich-app",
             "repo": "immich",
-            "stars": 115525,
+            "stars": 115571,
             "topics": [
               "backup-tool",
               "flutter",
@@ -90,11 +90,11 @@
             "id": 304344049,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:18:50Z",
-            "open_issues": 807,
+            "last_commit": "2026-10-04T16:10:39Z",
+            "open_issues": 819,
             "owner": "sveltejs",
             "repo": "kit",
-            "stars": 20834,
+            "stars": 20839,
             "topics": [
               "svelte"
             ]
@@ -113,11 +113,11 @@
             "id": 488804911,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T16:31:54Z",
-            "open_issues": 845,
+            "last_commit": "2026-10-04T12:40:11Z",
+            "open_issues": 842,
             "owner": "windmill-labs",
             "repo": "windmill",
-            "stars": 18092,
+            "stars": 18100,
             "topics": [
               "low-code",
               "open-source",
@@ -140,10 +140,10 @@
             "description": "The next-generation file converter. Open source, fully local* and free forever.",
             "homepage": "https://vert.sh",
             "id": 886745826,
-            "language": "Svelte",
+            "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T18:27:43Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-04T11:53:43Z",
+            "open_issues": 51,
             "owner": "VERT-sh",
             "repo": "VERT",
             "stars": 15674,
@@ -176,7 +176,7 @@
             "open_issues": 300,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10971,
+            "stars": 10974,
             "topics": [
               "chatgpt",
               "hacktoberfest",
@@ -203,11 +203,11 @@
             "id": 641226132,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T15:37:49Z",
+            "last_commit": "2026-10-03T21:24:52Z",
             "open_issues": 110,
             "owner": "huntabyte",
             "repo": "shadcn-svelte",
-            "stars": 9174,
+            "stars": 9177,
             "topics": [
               "bits-ui",
               "shadcn-svelte",
@@ -239,7 +239,7 @@
             "open_issues": 17,
             "owner": "evidence-dev",
             "repo": "evidence",
-            "stars": 6977,
+            "stars": 6978,
             "topics": [
               "analytics",
               "business-intelligence",
@@ -275,7 +275,7 @@
             "open_issues": 103,
             "owner": "mermaid-js",
             "repo": "mermaid-live-editor",
-            "stars": 6842,
+            "stars": 6846,
             "topics": [
               "diagrams",
               "mermaid"
@@ -295,11 +295,11 @@
             "id": 462808010,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T14:03:49Z",
+            "last_commit": "2026-10-04T13:09:03Z",
             "open_issues": 49,
             "owner": "skeletonlabs",
             "repo": "skeleton",
-            "stars": 6065,
+            "stars": 6066,
             "topics": [
               "a11y",
               "accessibility",
@@ -493,7 +493,7 @@
             "open_issues": 45,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2674,
+            "stars": 2675,
             "topics": [
               "macos",
               "svelte"
@@ -564,6 +564,33 @@
         },
         {
           "node_type": "item",
+          "title": "editable-website",
+          "description": "michael/editable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The website you can edit on the page",
+            "homepage": "https://editable.website",
+            "id": 623683320,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-03T22:08:03Z",
+            "open_issues": 33,
+            "owner": "michael",
+            "repo": "editable",
+            "stars": 1795,
+            "topics": [
+              "javascript",
+              "richtexteditor",
+              "sqlite",
+              "svelte",
+              "webdev"
+            ]
+          },
+          "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
           "title": "Svelte Headless UI",
           "description": "rgossiaux/svelte-headlessui",
           "children": [],
@@ -600,7 +627,7 @@
             "id": 141244256,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-01T06:55:08Z",
+            "last_commit": "2026-10-04T15:03:44Z",
             "open_issues": 2,
             "owner": "mhkeller",
             "repo": "layercake",
@@ -616,33 +643,6 @@
               "layers",
               "svelte",
               "sveltejs"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "editable-website",
-          "description": "michael/editable",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The website you can edit on the page",
-            "homepage": "https://editable.website",
-            "id": 623683320,
-            "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-03T11:30:59Z",
-            "open_issues": 33,
-            "owner": "michael",
-            "repo": "editable",
-            "stars": 1793,
-            "topics": [
-              "javascript",
-              "richtexteditor",
-              "sqlite",
-              "svelte",
-              "webdev"
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
@@ -735,7 +735,7 @@
             "id": 491367351,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-03T10:04:55Z",
+            "last_commit": "2026-10-04T10:58:17Z",
             "open_issues": 15,
             "owner": "vnphanquang",
             "repo": "svelte-put",
@@ -825,7 +825,7 @@
             "open_issues": 0,
             "owner": "janosh",
             "repo": "diagrams",
-            "stars": 694,
+            "stars": 695,
             "topics": [
               "cetz",
               "chemistry",
@@ -836,6 +836,38 @@
               "tikz",
               "tikz-gallery",
               "typst"
+            ]
+          },
+          "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenPost",
+          "description": "getopenpost/openpost",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Create, adapt, schedule, and track social posts. Open-source, hosted or self-hosted.",
+            "homepage": "https://openpo.st",
+            "id": 1187916096,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-04T13:57:17Z",
+            "open_issues": 0,
+            "owner": "getopenpost",
+            "repo": "openpost",
+            "stars": 650,
+            "topics": [
+              "automation",
+              "content-creation",
+              "golang",
+              "mcp-server",
+              "self-hosted",
+              "social-media",
+              "social-media-automation",
+              "social-media-scheduler",
+              "svelte",
+              "sveltekit"
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
@@ -876,38 +908,6 @@
               "typescript",
               "unocss",
               "urara"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OpenPost",
-          "description": "getopenpost/openpost",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Create, adapt, schedule, and track social posts. Open-source, hosted or self-hosted.",
-            "homepage": "https://openpo.st",
-            "id": 1187916096,
-            "language": "TypeScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T16:13:48Z",
-            "open_issues": 0,
-            "owner": "getopenpost",
-            "repo": "openpost",
-            "stars": 647,
-            "topics": [
-              "automation",
-              "content-creation",
-              "golang",
-              "mcp-server",
-              "self-hosted",
-              "social-media",
-              "social-media-automation",
-              "social-media-scheduler",
-              "svelte",
-              "sveltekit"
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
@@ -977,7 +977,7 @@
             "open_issues": 8,
             "owner": "josh-collinsworth",
             "repo": "sveltekit-blog-starter",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "blog",
               "markdown",
@@ -1081,8 +1081,8 @@
             "id": 605681891,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-03T12:58:18Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-04T13:45:39Z",
+            "open_issues": 60,
             "owner": "SvelteLab",
             "repo": "SvelteLab",
             "stars": 447,
@@ -1165,8 +1165,8 @@
             "id": 498793280,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T16:22:50Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-04T12:36:04Z",
+            "open_issues": 0,
             "owner": "janosh",
             "repo": "matterviz",
             "stars": 362,
@@ -1194,7 +1194,7 @@
             "id": 217753497,
             "language": "Svelte",
             "license": null,
-            "last_commit": "2026-09-30T10:08:33Z",
+            "last_commit": "2026-10-04T07:26:24Z",
             "open_issues": 0,
             "owner": "matfantinel",
             "repo": "fantinel.dev",
@@ -1218,8 +1218,8 @@
             "id": 813142019,
             "language": "Svelte",
             "license": null,
-            "last_commit": "2026-10-03T15:45:49Z",
-            "open_issues": 147,
+            "last_commit": "2026-10-04T16:13:49Z",
+            "open_issues": 148,
             "owner": "sveltejs",
             "repo": "svelte.dev",
             "stars": 332,
@@ -1239,8 +1239,8 @@
             "id": 477863727,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T15:43:29Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-03T23:59:57Z",
+            "open_issues": 11,
             "owner": "Specy",
             "repo": "asm-editor",
             "stars": 327,
@@ -1421,7 +1421,7 @@
             "id": 507372880,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T11:54:04Z",
+            "last_commit": "2026-10-04T14:06:17Z",
             "open_issues": 14,
             "owner": "gereleth",
             "repo": "hexapipes",
@@ -1639,7 +1639,7 @@
             "id": 492505127,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T13:53:56Z",
+            "last_commit": "2026-10-04T01:12:44Z",
             "open_issues": 13,
             "owner": "spences10",
             "repo": "svead",
@@ -1812,7 +1812,7 @@
             "id": 197587169,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-09-30T13:44:46Z",
+            "last_commit": "2026-10-03T18:37:28Z",
             "open_issues": 0,
             "owner": "Aias",
             "repo": "barnsworthburning",
@@ -1947,13 +1947,39 @@
             "topics": []
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MonoMap",
+          "description": "tehnika-mk/monomap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MonoMap is a keyboard-first, local-first mind map web app. It opens instantly, works offline, and never gets in the way of your thinking.",
+            "homepage": "https://monomap.app",
+            "id": 1331931798,
+            "language": "Svelte",
+            "license": "MIT",
+            "last_commit": "2026-09-30T07:09:58Z",
+            "open_issues": 1,
+            "owner": "tehnika-mk",
+            "repo": "monomap",
+            "stars": 1,
+            "topics": [
+              "mindmap",
+              "productivity",
+              "tools",
+              "workspace"
+            ]
+          },
+          "first_seen": "2026-10-04T16:55:25.770Z"
         }
       ],
       "title": "Sites"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:34:05.778Z",
+    "last_updated": "2026-10-04T16:55:25.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome examples of SvelteKit in the wild",
@@ -1961,8 +1987,8 @@
       "id": 353665258,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-10-03T12:22:23Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-04T10:37:35Z",
+      "open_issues": 1,
       "owner": "janosh",
       "repo": "awesome-sveltekit",
       "stars": 1323,
@@ -1973,7 +1999,7 @@
         "svelte-kit"
       ]
     },
-    "original_repository_sha": "2acabe7181e20f32d5019a9a096f9c2437a17cd0",
+    "original_repository_sha": "5f542711b6dfeabeddce3dbecdf0c7026396a384",
     "enhanced_repository": "enhansome/enhansome-sveltekit",
     "enhanced_repository_description": null,
     "title": "Awesome sveltekit with stars"
