@@ -15,11 +15,11 @@
             "id": 701547123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T18:46:20Z",
-            "open_issues": 266,
+            "last_commit": "2026-10-09T17:57:09Z",
+            "open_issues": 262,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 154041,
+            "stars": 154127,
             "topics": [
               "ai",
               "llm",
@@ -52,11 +52,11 @@
             "id": 455229168,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-08T18:48:14Z",
-            "open_issues": 688,
+            "last_commit": "2026-10-09T18:10:03Z",
+            "open_issues": 690,
             "owner": "immich-app",
             "repo": "immich",
-            "stars": 115759,
+            "stars": 115853,
             "topics": [
               "backup-tool",
               "flutter",
@@ -90,11 +90,11 @@
             "id": 304344049,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T09:28:52Z",
-            "open_issues": 843,
+            "last_commit": "2026-10-08T22:51:40Z",
+            "open_issues": 851,
             "owner": "sveltejs",
             "repo": "kit",
-            "stars": 20847,
+            "stars": 20844,
             "topics": [
               "svelte"
             ]
@@ -113,11 +113,11 @@
             "id": 488804911,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T18:08:25Z",
-            "open_issues": 853,
+            "last_commit": "2026-10-09T18:24:39Z",
+            "open_issues": 849,
             "owner": "windmill-labs",
             "repo": "windmill",
-            "stars": 18138,
+            "stars": 18149,
             "topics": [
               "low-code",
               "open-source",
@@ -142,11 +142,11 @@
             "id": 886745826,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-08T14:21:02Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-09T17:07:13Z",
+            "open_issues": 43,
             "owner": "VERT-sh",
             "repo": "VERT",
-            "stars": 15765,
+            "stars": 15802,
             "topics": [
               "conversion",
               "ffmpeg",
@@ -172,11 +172,11 @@
             "id": 603085008,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T18:20:27Z",
-            "open_issues": 308,
+            "last_commit": "2026-10-09T17:10:55Z",
+            "open_issues": 303,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10975,
+            "stars": 10976,
             "topics": [
               "chatgpt",
               "hacktoberfest",
@@ -204,7 +204,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-05T23:34:02Z",
-            "open_issues": 110,
+            "open_issues": 112,
             "owner": "huntabyte",
             "repo": "shadcn-svelte",
             "stars": 9181,
@@ -235,11 +235,11 @@
             "id": 371239231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T18:00:17Z",
+            "last_commit": "2026-10-08T19:49:20Z",
             "open_issues": 15,
             "owner": "evidence-dev",
             "repo": "evidence",
-            "stars": 6988,
+            "stars": 6992,
             "topics": [
               "analytics",
               "business-intelligence",
@@ -271,11 +271,11 @@
             "id": 223260063,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T13:12:13Z",
+            "last_commit": "2026-10-09T14:52:36Z",
             "open_issues": 105,
             "owner": "mermaid-js",
             "repo": "mermaid-live-editor",
-            "stars": 6853,
+            "stars": 6855,
             "topics": [
               "diagrams",
               "mermaid"
@@ -295,7 +295,7 @@
             "id": 462808010,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T12:06:25Z",
+            "last_commit": "2026-10-09T17:51:24Z",
             "open_issues": 49,
             "owner": "skeletonlabs",
             "repo": "skeleton",
@@ -335,7 +335,7 @@
             "open_issues": 460,
             "owner": "fireship-io",
             "repo": "fireship.io",
-            "stars": 3753,
+            "stars": 3752,
             "topics": [
               "firebase",
               "flutter",
@@ -356,7 +356,7 @@
             "id": 197286704,
             "language": "SCSS",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T01:03:06Z",
+            "last_commit": "2026-10-09T17:16:41Z",
             "open_issues": 72,
             "owner": "hperrin",
             "repo": "svelte-material-ui",
@@ -390,7 +390,7 @@
             "open_issues": 68,
             "owner": "threlte",
             "repo": "threlte",
-            "stars": 3343,
+            "stars": 3345,
             "topics": [
               "3d",
               "hacktoberfest",
@@ -451,7 +451,7 @@
             "open_issues": 47,
             "owner": "themesberg",
             "repo": "flowbite-svelte",
-            "stars": 2786,
+            "stars": 2787,
             "topics": [
               "accordion",
               "buttons",
@@ -490,10 +490,10 @@
             "language": "Svelte",
             "license": "MIT",
             "last_commit": "2026-07-05T07:33:00Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2677,
+            "stars": 2674,
             "topics": [
               "macos",
               "svelte"
@@ -517,7 +517,7 @@
             "open_issues": 7,
             "owner": "sveltejs",
             "repo": "realworld",
-            "stars": 2419,
+            "stars": 2418,
             "topics": []
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
@@ -538,7 +538,7 @@
             "open_issues": 1,
             "owner": "itswadesh",
             "repo": "svelte-commerce",
-            "stars": 1818,
+            "stars": 1817,
             "topics": [
               "cart",
               "ecommerce",
@@ -558,33 +558,6 @@
               "typescript",
               "vendure",
               "woocommerce"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "editable-website",
-          "description": "michael/editable",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The website you can edit on the page",
-            "homepage": "https://editable.website",
-            "id": 623683320,
-            "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-07T13:38:09Z",
-            "open_issues": 34,
-            "owner": "michael",
-            "repo": "editable",
-            "stars": 1796,
-            "topics": [
-              "javascript",
-              "richtexteditor",
-              "sqlite",
-              "svelte",
-              "webdev"
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
@@ -611,6 +584,33 @@
               "svelte-components",
               "svelte3",
               "sveltejs"
+            ]
+          },
+          "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
+          "title": "editable-website",
+          "description": "michael/editable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The website you can edit on the page",
+            "homepage": "https://editable.website",
+            "id": 623683320,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-09T16:17:45Z",
+            "open_issues": 32,
+            "owner": "michael",
+            "repo": "editable",
+            "stars": 1794,
+            "topics": [
+              "javascript",
+              "richtexteditor",
+              "sqlite",
+              "svelte",
+              "webdev"
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
@@ -659,11 +659,11 @@
             "id": 363384419,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-09-26T11:33:36Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-09T18:16:48Z",
+            "open_issues": 18,
             "owner": "cupcakearmy",
             "repo": "cryptgeon",
-            "stars": 1548,
+            "stars": 1547,
             "topics": [
               "file-sharing",
               "note-sharing",
@@ -739,7 +739,7 @@
             "open_issues": 15,
             "owner": "vnphanquang",
             "repo": "svelte-put",
-            "stars": 1038,
+            "stars": 1039,
             "topics": [
               "action",
               "component",
@@ -825,7 +825,7 @@
             "open_issues": 0,
             "owner": "janosh",
             "repo": "diagrams",
-            "stars": 697,
+            "stars": 700,
             "topics": [
               "cetz",
               "chemistry",
@@ -852,11 +852,11 @@
             "id": 1187916096,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-08T18:34:48Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-08T21:18:50Z",
+            "open_issues": 2,
             "owner": "getopenpost",
             "repo": "openpost",
-            "stars": 658,
+            "stars": 659,
             "topics": [
               "automation",
               "content-creation",
@@ -928,7 +928,7 @@
             "open_issues": 4,
             "owner": "sopaco",
             "repo": "saga-reader",
-            "stars": 539,
+            "stars": 532,
             "topics": [
               "desktop",
               "llm",
@@ -1005,7 +1005,7 @@
             "open_issues": 3,
             "owner": "kwchang0831",
             "repo": "svelte-QWER",
-            "stars": 478,
+            "stars": 477,
             "topics": [
               "blog",
               "blog-starter",
@@ -1036,7 +1036,7 @@
             "open_issues": 6,
             "owner": "files-community",
             "repo": "Website",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "documentation",
               "files"
@@ -1110,7 +1110,7 @@
             "open_issues": 0,
             "owner": "janosh",
             "repo": "svelte-widgets",
-            "stars": 383,
+            "stars": 384,
             "topics": [
               "accessibility",
               "attachments",
@@ -1165,7 +1165,7 @@
             "id": 498793280,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T19:37:13Z",
+            "last_commit": "2026-10-09T11:15:13Z",
             "open_issues": 0,
             "owner": "janosh",
             "repo": "matterviz",
@@ -1178,6 +1178,48 @@
               "plotting",
               "svelte",
               "threejs"
+            ]
+          },
+          "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ASM Editor",
+          "description": "Specy/asm-editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An app to write, run and learn M68K, MIPS, RISC-V, X86, Z80 assembly",
+            "homepage": "https://asm-editor.specy.app",
+            "id": 477863727,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-09T16:21:48Z",
+            "open_issues": 9,
+            "owner": "Specy",
+            "repo": "asm-editor",
+            "stars": 339,
+            "topics": [
+              "assembly",
+              "javascript",
+              "learn",
+              "learning",
+              "learning-by-doing",
+              "m68k",
+              "mc68000",
+              "mips",
+              "mips-assembly",
+              "mips-simulator",
+              "mips32",
+              "motorola-68000",
+              "risc-v",
+              "riscv",
+              "riscv32",
+              "simulator",
+              "svelte",
+              "x86",
+              "z80",
+              "z80-emulator"
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
@@ -1218,54 +1260,12 @@
             "id": 813142019,
             "language": "Svelte",
             "license": null,
-            "last_commit": "2026-10-08T14:57:25Z",
-            "open_issues": 150,
+            "last_commit": "2026-10-09T17:13:05Z",
+            "open_issues": 151,
             "owner": "sveltejs",
             "repo": "svelte.dev",
-            "stars": 333,
+            "stars": 332,
             "topics": []
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ASM Editor",
-          "description": "Specy/asm-editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An app to write, run and learn M68K, MIPS, RISC-V, X86, Z80 assembly",
-            "homepage": "https://asm-editor.specy.app",
-            "id": 477863727,
-            "language": "TypeScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-08T18:55:18Z",
-            "open_issues": 12,
-            "owner": "Specy",
-            "repo": "asm-editor",
-            "stars": 331,
-            "topics": [
-              "assembly",
-              "javascript",
-              "learn",
-              "learning",
-              "learning-by-doing",
-              "m68k",
-              "mc68000",
-              "mips",
-              "mips-assembly",
-              "mips-simulator",
-              "mips32",
-              "motorola-68000",
-              "risc-v",
-              "riscv",
-              "riscv32",
-              "simulator",
-              "svelte",
-              "x86",
-              "z80",
-              "z80-emulator"
-            ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
         },
@@ -1979,7 +1979,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T18:56:44.553Z",
+    "last_updated": "2026-10-09T18:27:00.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome examples of SvelteKit in the wild",
@@ -1991,7 +1991,7 @@
       "open_issues": 1,
       "owner": "janosh",
       "repo": "awesome-sveltekit",
-      "stars": 1326,
+      "stars": 1325,
       "topics": [
         "awesome-list",
         "community",
