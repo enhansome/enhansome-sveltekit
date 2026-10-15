@@ -15,11 +15,11 @@
             "id": 701547123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T16:06:35Z",
-            "open_issues": 165,
+            "last_commit": "2026-10-15T14:02:29Z",
+            "open_issues": 170,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 155661,
+            "stars": 155793,
             "topics": [
               "ai",
               "llm",
@@ -52,11 +52,11 @@
             "id": 455229168,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T17:25:27Z",
-            "open_issues": 720,
+            "last_commit": "2026-10-15T16:51:34Z",
+            "open_issues": 717,
             "owner": "immich-app",
             "repo": "immich",
-            "stars": 116233,
+            "stars": 116335,
             "topics": [
               "backup-tool",
               "flutter",
@@ -90,11 +90,11 @@
             "id": 304344049,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T13:42:09Z",
-            "open_issues": 854,
+            "last_commit": "2026-10-15T16:53:35Z",
+            "open_issues": 874,
             "owner": "sveltejs",
             "repo": "kit",
-            "stars": 20855,
+            "stars": 20860,
             "topics": [
               "svelte"
             ]
@@ -113,11 +113,11 @@
             "id": 488804911,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T17:14:02Z",
+            "last_commit": "2026-10-15T17:12:53Z",
             "open_issues": 856,
             "owner": "windmill-labs",
             "repo": "windmill",
-            "stars": 18183,
+            "stars": 18192,
             "topics": [
               "low-code",
               "open-source",
@@ -146,7 +146,7 @@
             "open_issues": 43,
             "owner": "VERT-sh",
             "repo": "VERT",
-            "stars": 15940,
+            "stars": 15957,
             "topics": [
               "conversion",
               "ffmpeg",
@@ -172,11 +172,11 @@
             "id": 603085008,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T13:34:00Z",
-            "open_issues": 309,
+            "last_commit": "2026-10-15T16:41:43Z",
+            "open_issues": 308,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10982,
+            "stars": 10984,
             "topics": [
               "chatgpt",
               "hacktoberfest",
@@ -203,11 +203,11 @@
             "id": 641226132,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T15:13:45Z",
-            "open_issues": 113,
+            "last_commit": "2026-10-15T15:54:49Z",
+            "open_issues": 115,
             "owner": "huntabyte",
             "repo": "shadcn-svelte",
-            "stars": 9189,
+            "stars": 9188,
             "topics": [
               "bits-ui",
               "shadcn-svelte",
@@ -235,11 +235,11 @@
             "id": 371239231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T21:33:19Z",
+            "last_commit": "2026-10-15T16:16:45Z",
             "open_issues": 15,
             "owner": "evidence-dev",
             "repo": "evidence",
-            "stars": 7015,
+            "stars": 7028,
             "topics": [
               "analytics",
               "business-intelligence",
@@ -271,11 +271,11 @@
             "id": 223260063,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T13:27:52Z",
-            "open_issues": 106,
+            "last_commit": "2026-10-14T17:58:19Z",
+            "open_issues": 105,
             "owner": "mermaid-js",
             "repo": "mermaid-live-editor",
-            "stars": 6861,
+            "stars": 6862,
             "topics": [
               "diagrams",
               "mermaid"
@@ -295,11 +295,11 @@
             "id": 462808010,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T16:40:52Z",
+            "last_commit": "2026-10-15T16:49:14Z",
             "open_issues": 51,
             "owner": "skeletonlabs",
             "repo": "skeleton",
-            "stars": 6074,
+            "stars": 6075,
             "topics": [
               "a11y",
               "accessibility",
@@ -335,7 +335,7 @@
             "open_issues": 460,
             "owner": "fireship-io",
             "repo": "fireship.io",
-            "stars": 3753,
+            "stars": 3755,
             "topics": [
               "firebase",
               "flutter",
@@ -386,8 +386,8 @@
             "id": 448331182,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-12T15:02:18Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-14T22:09:18Z",
+            "open_issues": 67,
             "owner": "threlte",
             "repo": "threlte",
             "stars": 3349,
@@ -493,7 +493,7 @@
             "open_issues": 47,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2676,
+            "stars": 2679,
             "topics": [
               "macos",
               "svelte"
@@ -517,7 +517,7 @@
             "open_issues": 7,
             "owner": "sveltejs",
             "repo": "realworld",
-            "stars": 2417,
+            "stars": 2418,
             "topics": []
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
@@ -534,7 +534,7 @@
             "id": 213575283,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-14T11:03:19Z",
+            "last_commit": "2026-10-15T06:26:51Z",
             "open_issues": 0,
             "owner": "itswadesh",
             "repo": "svelte-commerce",
@@ -574,7 +574,7 @@
             "id": 623683320,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T15:10:14Z",
+            "last_commit": "2026-10-15T15:30:10Z",
             "open_issues": 36,
             "owner": "michael",
             "repo": "editable",
@@ -585,6 +585,38 @@
               "sqlite",
               "svelte",
               "webdev"
+            ]
+          },
+          "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Layer Cake",
+          "description": "mhkeller/layercake",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "graphics framework for sveltejs",
+            "homepage": "https://layercake.graphics",
+            "id": 141244256,
+            "language": "Svelte",
+            "license": "MIT",
+            "last_commit": "2026-10-04T15:03:44Z",
+            "open_issues": 2,
+            "owner": "mhkeller",
+            "repo": "layercake",
+            "stars": 1795,
+            "topics": [
+              "cake",
+              "charts",
+              "dataviz",
+              "delicious",
+              "dessert",
+              "graphics",
+              "layercake",
+              "layers",
+              "svelte",
+              "sveltejs"
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
@@ -617,38 +649,6 @@
         },
         {
           "node_type": "item",
-          "title": "Layer Cake",
-          "description": "mhkeller/layercake",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "graphics framework for sveltejs",
-            "homepage": "https://layercake.graphics",
-            "id": 141244256,
-            "language": "Svelte",
-            "license": "MIT",
-            "last_commit": "2026-10-04T15:03:44Z",
-            "open_issues": 2,
-            "owner": "mhkeller",
-            "repo": "layercake",
-            "stars": 1794,
-            "topics": [
-              "cake",
-              "charts",
-              "dataviz",
-              "delicious",
-              "dessert",
-              "graphics",
-              "layercake",
-              "layers",
-              "svelte",
-              "sveltejs"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
           "title": "Cryptgeon",
           "description": "cupcakearmy/cryptgeon",
           "children": [],
@@ -663,7 +663,7 @@
             "open_issues": 17,
             "owner": "cupcakearmy",
             "repo": "cryptgeon",
-            "stars": 1550,
+            "stars": 1554,
             "topics": [
               "file-sharing",
               "note-sharing",
@@ -821,11 +821,11 @@
             "id": 1187916096,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T17:20:51Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-15T13:34:13Z",
+            "open_issues": 0,
             "owner": "getopenpost",
             "repo": "openpost",
-            "stars": 740,
+            "stars": 742,
             "topics": [
               "automation",
               "content-creation",
@@ -853,7 +853,7 @@
             "id": 286220365,
             "language": "Typst",
             "license": "MIT",
-            "last_commit": "2026-10-05T09:59:46Z",
+            "last_commit": "2026-10-15T09:56:25Z",
             "open_issues": 0,
             "owner": "janosh",
             "repo": "diagrams",
@@ -928,7 +928,7 @@
             "open_issues": 4,
             "owner": "sopaco",
             "repo": "saga-reader",
-            "stars": 534,
+            "stars": 533,
             "topics": [
               "desktop",
               "llm",
@@ -1155,35 +1155,6 @@
         },
         {
           "node_type": "item",
-          "title": "MatterViz",
-          "description": "janosh/matterviz",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Interactive browser visualizations for materials science: crystal structures/molecules, trajectories, convex hulls, phase diagrams, Fermi surfaces, bands+DOS, Brillouin zones, etc.",
-            "homepage": "https://janosh.github.io/matterviz",
-            "id": 498793280,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-13T11:28:48Z",
-            "open_issues": 0,
-            "owner": "janosh",
-            "repo": "matterviz",
-            "stars": 364,
-            "topics": [
-              "chemistry",
-              "d3",
-              "data-viz",
-              "materials-science",
-              "plotting",
-              "svelte",
-              "threejs"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
           "title": "ASM Editor",
           "description": "Specy/asm-editor",
           "children": [],
@@ -1198,7 +1169,7 @@
             "open_issues": 9,
             "owner": "Specy",
             "repo": "asm-editor",
-            "stars": 363,
+            "stars": 369,
             "topics": [
               "assembly",
               "javascript",
@@ -1220,6 +1191,35 @@
               "x86",
               "z80",
               "z80-emulator"
+            ]
+          },
+          "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MatterViz",
+          "description": "janosh/matterviz",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Interactive browser visualizations for materials science: crystal structures/molecules, trajectories, convex hulls, phase diagrams, Fermi surfaces, bands+DOS, Brillouin zones, etc.",
+            "homepage": "https://janosh.github.io/matterviz",
+            "id": 498793280,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-15T17:03:05Z",
+            "open_issues": 1,
+            "owner": "janosh",
+            "repo": "matterviz",
+            "stars": 364,
+            "topics": [
+              "chemistry",
+              "d3",
+              "data-viz",
+              "materials-science",
+              "plotting",
+              "svelte",
+              "threejs"
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
@@ -1260,7 +1260,7 @@
             "id": 813142019,
             "language": "Svelte",
             "license": null,
-            "last_commit": "2026-10-14T15:47:33Z",
+            "last_commit": "2026-10-15T16:54:42Z",
             "open_issues": 151,
             "owner": "sveltejs",
             "repo": "svelte.dev",
@@ -1372,8 +1372,8 @@
             "id": 387004664,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T23:31:28Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-15T17:13:30Z",
+            "open_issues": 11,
             "owner": "spences10",
             "repo": "sveltekit-embed",
             "stars": 240,
@@ -1411,33 +1411,6 @@
         },
         {
           "node_type": "item",
-          "title": "Hexapipes",
-          "description": "gereleth/hexapipes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Hexagonal pipes puzzles",
-            "homepage": "https://hexapipes.vercel.app/hexagonal/5",
-            "id": 507372880,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-10-13T15:43:50Z",
-            "open_issues": 14,
-            "owner": "gereleth",
-            "repo": "hexapipes",
-            "stars": 221,
-            "topics": [
-              "hexagon",
-              "puzzle",
-              "puzzle-game",
-              "svelte",
-              "sveltekit"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
           "title": "svelte-command-palette",
           "description": "rohitpotato/svelte-command-palette",
           "children": [],
@@ -1460,6 +1433,33 @@
               "sapper",
               "svelte-components",
               "svelte3",
+              "sveltekit"
+            ]
+          },
+          "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Hexapipes",
+          "description": "gereleth/hexapipes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hexagonal pipes puzzles",
+            "homepage": "https://hexapipes.vercel.app/hexagonal/5",
+            "id": 507372880,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-13T15:43:50Z",
+            "open_issues": 14,
+            "owner": "gereleth",
+            "repo": "hexapipes",
+            "stars": 220,
+            "topics": [
+              "hexagon",
+              "puzzle",
+              "puzzle-game",
+              "svelte",
               "sveltekit"
             ]
           },
@@ -1639,7 +1639,7 @@
             "id": 492505127,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T09:17:28Z",
+            "last_commit": "2026-10-15T07:11:59Z",
             "open_issues": 11,
             "owner": "spences10",
             "repo": "svead",
@@ -1691,8 +1691,8 @@
             "id": 402852173,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-09-29T17:17:56Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-15T15:22:19Z",
+            "open_issues": 5,
             "owner": "the-pudding",
             "repo": "website",
             "stars": 92,
@@ -1791,7 +1791,7 @@
             "open_issues": 7,
             "owner": "KevinVandy",
             "repo": "multi-monitor_calculator",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "material-ui",
               "monitors",
@@ -1979,7 +1979,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T17:26:09.690Z",
+    "last_updated": "2026-10-15T17:14:35.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome examples of SvelteKit in the wild",
