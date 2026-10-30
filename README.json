@@ -15,11 +15,11 @@
             "id": 701547123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T17:58:51Z",
-            "open_issues": 150,
+            "last_commit": "2026-10-30T09:41:21Z",
+            "open_issues": 166,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 157161,
+            "stars": 157263,
             "topics": [
               "ai",
               "llm",
@@ -52,11 +52,11 @@
             "id": 455229168,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T18:19:52Z",
-            "open_issues": 681,
+            "last_commit": "2026-10-30T17:10:21Z",
+            "open_issues": 677,
             "owner": "immich-app",
             "repo": "immich",
-            "stars": 117601,
+            "stars": 117720,
             "topics": [
               "backup-tool",
               "flutter",
@@ -80,6 +80,46 @@
         },
         {
           "node_type": "item",
+          "title": "cobalt",
+          "description": "imputnet/cobalt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "best way to save what you love",
+            "homepage": "https://cobalt.tools",
+            "id": 511987144,
+            "language": "Svelte",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-04-06T11:59:56Z",
+            "open_issues": 281,
+            "owner": "imputnet",
+            "repo": "cobalt",
+            "stars": 45650,
+            "topics": [
+              "collaboration",
+              "downloader",
+              "instagram",
+              "javascript",
+              "music",
+              "reddit",
+              "social-media",
+              "soundcloud",
+              "svelte",
+              "tiktok",
+              "twitter",
+              "typescript",
+              "video",
+              "vimeo",
+              "vk",
+              "webapp",
+              "youtube",
+              "youtube-downloader"
+            ]
+          },
+          "first_seen": "2026-10-30T18:07:22.023Z"
+        },
+        {
+          "node_type": "item",
           "title": "Official SvelteKit docs",
           "description": "sveltejs/kit",
           "children": [],
@@ -90,11 +130,11 @@
             "id": 304344049,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T17:27:51Z",
+            "last_commit": "2026-10-30T17:13:29Z",
             "open_issues": 924,
             "owner": "sveltejs",
             "repo": "kit",
-            "stars": 20883,
+            "stars": 20885,
             "topics": [
               "svelte"
             ]
@@ -113,11 +153,11 @@
             "id": 488804911,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T18:34:29Z",
-            "open_issues": 874,
+            "last_commit": "2026-10-30T17:59:22Z",
+            "open_issues": 872,
             "owner": "windmill-labs",
             "repo": "windmill",
-            "stars": 18314,
+            "stars": 18326,
             "topics": [
               "ai-agents",
               "airflow-alternative",
@@ -138,6 +178,70 @@
         },
         {
           "node_type": "item",
+          "title": "WebVM",
+          "description": "leaningtech/webvm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Virtual Machine for the Web",
+            "homepage": "https://webvm.io",
+            "id": 454164378,
+            "language": "Svelte",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-27T12:04:39Z",
+            "open_issues": 12,
+            "owner": "leaningtech",
+            "repo": "webvm",
+            "stars": 17455,
+            "topics": [
+              "cheerp",
+              "cheerpx",
+              "cpp",
+              "lwip",
+              "repl",
+              "tailscale",
+              "vm",
+              "wasm",
+              "webassembly",
+              "webvm",
+              "xterm-js"
+            ]
+          },
+          "first_seen": "2026-10-30T18:07:22.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Harper",
+          "description": "Automattic/harper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+            "homepage": "https://writewithharper.com",
+            "id": 708266011,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-30T17:29:06Z",
+            "open_issues": 1004,
+            "owner": "Automattic",
+            "repo": "harper",
+            "stars": 17290,
+            "topics": [
+              "chrome-extension",
+              "developer-tools",
+              "english-language",
+              "grammar-checker",
+              "nodejs",
+              "react",
+              "rust",
+              "svelte",
+              "webassembly"
+            ]
+          },
+          "first_seen": "2026-10-30T18:07:22.023Z"
+        },
+        {
+          "node_type": "item",
           "title": "VERT",
           "description": "VERT-sh/VERT",
           "children": [],
@@ -152,7 +256,7 @@
             "open_issues": 33,
             "owner": "VERT-sh",
             "repo": "VERT",
-            "stars": 16177,
+            "stars": 16182,
             "topics": [
               "conversion",
               "ffmpeg",
@@ -178,11 +282,11 @@
             "id": 603085008,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T18:29:40Z",
-            "open_issues": 324,
+            "last_commit": "2026-10-30T15:49:09Z",
+            "open_issues": 325,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 11003,
+            "stars": 11006,
             "topics": [
               "chatgpt",
               "hacktoberfest",
@@ -209,11 +313,11 @@
             "id": 641226132,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T02:06:40Z",
-            "open_issues": 110,
+            "last_commit": "2026-10-29T20:15:04Z",
+            "open_issues": 109,
             "owner": "huntabyte",
             "repo": "shadcn-svelte",
-            "stars": 9222,
+            "stars": 9225,
             "topics": [
               "bits-ui",
               "shadcn-svelte",
@@ -241,11 +345,11 @@
             "id": 371239231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T18:33:07Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-30T18:00:37Z",
+            "open_issues": 18,
             "owner": "evidence-dev",
             "repo": "evidence",
-            "stars": 7076,
+            "stars": 7077,
             "topics": [
               "analytics",
               "business-intelligence",
@@ -277,8 +381,8 @@
             "id": 223260063,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T21:35:11Z",
-            "open_issues": 108,
+            "last_commit": "2026-10-30T16:19:15Z",
+            "open_issues": 109,
             "owner": "mermaid-js",
             "repo": "mermaid-live-editor",
             "stars": 6884,
@@ -288,6 +392,38 @@
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
+          "title": "svgl",
+          "description": "pheralb/svgl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
+            "homepage": "https://svgl.app",
+            "id": 448688478,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-28T15:42:34Z",
+            "open_issues": 321,
+            "owner": "pheralb",
+            "repo": "svgl",
+            "stars": 6396,
+            "topics": [
+              "hacktoberfest",
+              "logos",
+              "open-source",
+              "optimized",
+              "svelte",
+              "sveltekit",
+              "svg",
+              "svg-icons",
+              "svg-images",
+              "tailwindcss"
+            ]
+          },
+          "first_seen": "2026-10-30T18:07:22.023Z"
         },
         {
           "node_type": "item",
@@ -301,8 +437,8 @@
             "id": 462808010,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T11:15:06Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-30T17:38:55Z",
+            "open_issues": 54,
             "owner": "skeletonlabs",
             "repo": "skeleton",
             "stars": 6086,
@@ -327,28 +463,55 @@
         },
         {
           "node_type": "item",
-          "title": "Fireship",
-          "description": "fireship-io/fireship.io",
+          "title": "Ghostty Config",
+          "description": "zerebos/ghostty-config",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Build and ship your app faster  https://fireship.io",
-            "homepage": null,
-            "id": 164466028,
-            "language": "Svelte",
-            "license": null,
-            "last_commit": "2025-07-08T22:28:12Z",
-            "open_issues": 459,
-            "owner": "fireship-io",
-            "repo": "fireship.io",
-            "stars": 3750,
+            "description": "A beautiful config generator for Ghostty terminal.",
+            "homepage": "http://ghostty.zerebos.com/",
+            "id": 847565467,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-24T03:00:19Z",
+            "open_issues": 11,
+            "owner": "zerebos",
+            "repo": "ghostty-config",
+            "stars": 4323,
             "topics": [
-              "firebase",
-              "flutter",
-              "javascript"
+              "config",
+              "configuration-management",
+              "ghostty",
+              "svelte",
+              "terminal",
+              "terminal-config"
             ]
           },
-          "first_seen": "2026-08-28T22:31:09.566Z"
+          "first_seen": "2026-10-30T18:07:22.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "crates.io",
+          "description": "rust-lang/crates.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Rust package registry",
+            "homepage": "https://crates.io",
+            "id": 21365581,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-30T11:45:15Z",
+            "open_issues": 113,
+            "owner": "rust-lang",
+            "repo": "crates.io",
+            "stars": 3729,
+            "topics": [
+              "hacktoberfest",
+              "rust"
+            ]
+          },
+          "first_seen": "2026-10-30T18:07:22.023Z"
         },
         {
           "node_type": "item",
@@ -396,7 +559,7 @@
             "open_issues": 67,
             "owner": "threlte",
             "repo": "threlte",
-            "stars": 3356,
+            "stars": 3354,
             "topics": [
               "3d",
               "hacktoberfest",
@@ -407,6 +570,40 @@
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Component Party",
+          "description": "matschik/component-party.dev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🎉 Web component JS frameworks overview by their syntax and features",
+            "homepage": "https://component-party.dev",
+            "id": 475141120,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-23T01:00:06Z",
+            "open_issues": 29,
+            "owner": "matschik",
+            "repo": "component-party.dev",
+            "stars": 3347,
+            "topics": [
+              "alpine",
+              "angular",
+              "aurelia",
+              "ember",
+              "lit",
+              "qwik",
+              "react",
+              "ripple",
+              "solidjs",
+              "svelte",
+              "vite",
+              "vue"
+            ]
+          },
+          "first_seen": "2026-10-30T18:07:22.023Z"
         },
         {
           "node_type": "item",
@@ -424,7 +621,7 @@
             "open_issues": 9,
             "owner": "stemrollerapp",
             "repo": "stemroller",
-            "stars": 3183,
+            "stars": 3184,
             "topics": [
               "audio-processing",
               "bass",
@@ -457,7 +654,7 @@
             "open_issues": 45,
             "owner": "themesberg",
             "repo": "flowbite-svelte",
-            "stars": 2793,
+            "stars": 2792,
             "topics": [
               "accordion",
               "buttons",
@@ -485,27 +682,34 @@
         },
         {
           "node_type": "item",
-          "title": "macos-web",
-          "description": "PuruVJ/macos-web",
+          "title": "Svelvet",
+          "description": "open-source-labs/Svelvet",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
-            "homepage": "https://macos-web.app",
-            "id": 395248907,
+            "description": "🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts",
+            "homepage": "https://svelvet.io",
+            "id": 489412559,
             "language": "Svelte",
-            "license": "MIT",
-            "last_commit": "2026-07-05T07:33:00Z",
-            "open_issues": 47,
-            "owner": "PuruVJ",
-            "repo": "macos-web",
-            "stars": 2682,
+            "license": null,
+            "last_commit": "2025-02-13T23:22:02Z",
+            "open_issues": 84,
+            "owner": "open-source-labs",
+            "repo": "Svelvet",
+            "stars": 2776,
             "topics": [
-              "macos",
-              "svelte"
+              "devtool",
+              "diagrams",
+              "flowcharts",
+              "library",
+              "npm",
+              "opensource",
+              "svelte",
+              "sveltekit",
+              "typescript"
             ]
           },
-          "first_seen": "2026-08-28T22:31:09.566Z"
+          "first_seen": "2026-10-30T18:07:22.023Z"
         },
         {
           "node_type": "item",
@@ -540,11 +744,11 @@
             "id": 213575283,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-29T13:22:06Z",
+            "last_commit": "2026-10-30T14:53:58Z",
             "open_issues": 0,
             "owner": "itswadesh",
             "repo": "svelte-commerce",
-            "stars": 1823,
+            "stars": 1825,
             "topics": [
               "cart",
               "ecommerce",
@@ -580,11 +784,11 @@
             "id": 623683320,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T14:01:28Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-30T16:37:05Z",
+            "open_issues": 41,
             "owner": "michael",
             "repo": "editable",
-            "stars": 1799,
+            "stars": 1800,
             "topics": [
               "javascript",
               "richtexteditor",
@@ -611,7 +815,7 @@
             "open_issues": 2,
             "owner": "mhkeller",
             "repo": "layercake",
-            "stars": 1796,
+            "stars": 1795,
             "topics": [
               "cake",
               "charts",
@@ -622,32 +826,6 @@
               "layercake",
               "layers",
               "svelte",
-              "sveltejs"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Svelte Headless UI",
-          "description": "rgossiaux/svelte-headlessui",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Unofficial Svelte port of the Headless UI component library",
-            "homepage": "https://svelte-headlessui.goss.io",
-            "id": 435099345,
-            "language": "Svelte",
-            "license": "MIT",
-            "last_commit": "2024-03-31T09:03:14Z",
-            "open_issues": 50,
-            "owner": "rgossiaux",
-            "repo": "svelte-headlessui",
-            "stars": 1791,
-            "topics": [
-              "svelte",
-              "svelte-components",
-              "svelte3",
               "sveltejs"
             ]
           },
@@ -669,7 +847,7 @@
             "open_issues": 18,
             "owner": "cupcakearmy",
             "repo": "cryptgeon",
-            "stars": 1564,
+            "stars": 1565,
             "topics": [
               "file-sharing",
               "note-sharing",
@@ -679,6 +857,33 @@
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gpx.studio",
+          "description": "gpxstudio/gpx.studio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "the online GPX file editor",
+            "homepage": "https://gpx.studio/",
+            "id": 783722229,
+            "language": "MDX",
+            "license": "MIT",
+            "last_commit": "2026-10-28T22:09:23Z",
+            "open_issues": 104,
+            "owner": "gpxstudio",
+            "repo": "gpx.studio",
+            "stars": 1251,
+            "topics": [
+              "editor",
+              "gpx",
+              "maplibre",
+              "openstreetmap",
+              "web-app"
+            ]
+          },
+          "first_seen": "2026-10-30T18:07:22.023Z"
         },
         {
           "node_type": "item",
@@ -707,6 +912,60 @@
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Syntax.fm",
+          "description": "syntaxfm/website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Syntax Podcast Website",
+            "homepage": "https://syntax.fm",
+            "id": 94822475,
+            "language": "Svelte",
+            "license": "MIT",
+            "last_commit": "2026-10-28T06:26:07Z",
+            "open_issues": 55,
+            "owner": "syntaxfm",
+            "repo": "website",
+            "stars": 1216,
+            "topics": [
+              "css",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "svelte",
+              "sveltekit",
+              "tasty",
+              "treats"
+            ]
+          },
+          "first_seen": "2026-10-30T18:07:22.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Kagi Kite",
+          "description": "kagisearch/kite-public",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open source repository for Kite, news app by Kagi.",
+            "homepage": "https://news.kagi.com",
+            "id": 881073924,
+            "language": "Svelte",
+            "license": "MIT",
+            "last_commit": "2026-10-19T09:26:58Z",
+            "open_issues": 50,
+            "owner": "kagisearch",
+            "repo": "kite-public",
+            "stars": 1088,
+            "topics": [
+              "kagi",
+              "news"
+            ]
+          },
+          "first_seen": "2026-10-30T18:07:22.023Z"
         },
         {
           "node_type": "item",
@@ -777,11 +1036,43 @@
             "open_issues": 5,
             "owner": "HoudiniGraphql",
             "repo": "houdini",
-            "stars": 985,
+            "stars": 984,
             "topics": [
               "graphql",
               "react",
               "react-router",
+              "svelte",
+              "sveltekit"
+            ]
+          },
+          "first_seen": "2026-08-28T22:31:09.566Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenPost",
+          "description": "getopenpost/openpost",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Create, adapt, schedule, and track social posts. Open-source, hosted or self-hosted.",
+            "homepage": "https://openpo.st",
+            "id": 1187916096,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-30T17:24:42Z",
+            "open_issues": 6,
+            "owner": "getopenpost",
+            "repo": "openpost",
+            "stars": 839,
+            "topics": [
+              "automation",
+              "content-creation",
+              "golang",
+              "mcp-server",
+              "self-hosted",
+              "social-media",
+              "social-media-automation",
+              "social-media-scheduler",
               "svelte",
               "sveltekit"
             ]
@@ -817,38 +1108,6 @@
         },
         {
           "node_type": "item",
-          "title": "OpenPost",
-          "description": "getopenpost/openpost",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Create, adapt, schedule, and track social posts. Open-source, hosted or self-hosted.",
-            "homepage": "https://openpo.st",
-            "id": 1187916096,
-            "language": "TypeScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T16:14:37Z",
-            "open_issues": 5,
-            "owner": "getopenpost",
-            "repo": "openpost",
-            "stars": 833,
-            "topics": [
-              "automation",
-              "content-creation",
-              "golang",
-              "mcp-server",
-              "self-hosted",
-              "social-media",
-              "social-media-automation",
-              "social-media-scheduler",
-              "svelte",
-              "sveltekit"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
           "title": "Scientific Diagrams",
           "description": "janosh/diagrams",
           "children": [],
@@ -863,7 +1122,7 @@
             "open_issues": 0,
             "owner": "janosh",
             "repo": "diagrams",
-            "stars": 709,
+            "stars": 710,
             "topics": [
               "cetz",
               "chemistry",
@@ -894,7 +1153,7 @@
             "open_issues": 6,
             "owner": "importantimport",
             "repo": "urara",
-            "stars": 646,
+            "stars": 645,
             "topics": [
               "blog",
               "blog-template",
@@ -934,7 +1193,7 @@
             "open_issues": 4,
             "owner": "sopaco",
             "repo": "saga-reader",
-            "stars": 530,
+            "stars": 531,
             "topics": [
               "desktop",
               "llm",
@@ -943,27 +1202,6 @@
               "svelte",
               "tauri"
             ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Joy of Code",
-          "description": "matiadev/joy-of-code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌸 Joy of Code is a digital garden growing curious minds",
-            "homepage": "https://joyofcode.xyz",
-            "id": 305502406,
-            "language": "Svelte",
-            "license": "MIT",
-            "last_commit": "2026-10-18T12:25:40Z",
-            "open_issues": 0,
-            "owner": "matiadev",
-            "repo": "joy-of-code",
-            "stars": 514,
-            "topics": []
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
         },
@@ -980,7 +1218,7 @@
             "language": "Svelte",
             "license": "MIT",
             "last_commit": "2026-03-27T18:19:29Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "josh-collinsworth",
             "repo": "sveltekit-blog-starter",
             "stars": 509,
@@ -1112,8 +1350,8 @@
             "id": 365228700,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T09:07:21Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-30T17:29:41Z",
+            "open_issues": 1,
             "owner": "janosh",
             "repo": "svelte-widgets",
             "stars": 385,
@@ -1147,11 +1385,11 @@
             "id": 477863727,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T17:39:04Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-30T10:44:34Z",
+            "open_issues": 8,
             "owner": "Specy",
             "repo": "asm-editor",
-            "stars": 380,
+            "stars": 379,
             "topics": [
               "assembly",
               "javascript",
@@ -1179,30 +1417,6 @@
         },
         {
           "node_type": "item",
-          "title": "neovim craft",
-          "description": "neurosnap/neovimcraft",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "website that makes it easy to find neovim plugins",
-            "homepage": "https://neovimcraft.com",
-            "id": 387307722,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-05T03:17:06Z",
-            "open_issues": 8,
-            "owner": "neurosnap",
-            "repo": "neovimcraft",
-            "stars": 372,
-            "topics": [
-              "neovim",
-              "neovim-awesome"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
           "title": "MatterViz",
           "description": "janosh/matterviz",
           "children": [],
@@ -1213,11 +1427,11 @@
             "id": 498793280,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T17:05:59Z",
+            "last_commit": "2026-10-30T11:50:07Z",
             "open_issues": 0,
             "owner": "janosh",
             "repo": "matterviz",
-            "stars": 365,
+            "stars": 367,
             "topics": [
               "chemistry",
               "d3",
@@ -1226,30 +1440,6 @@
               "plotting",
               "svelte",
               "threejs"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Matt Fantinel",
-          "description": "matfantinel/fantinel.dev",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Personal website and blog made with Astro",
-            "homepage": "https://fantinel.dev",
-            "id": 217753497,
-            "language": "Svelte",
-            "license": null,
-            "last_commit": "2026-10-29T14:25:32Z",
-            "open_issues": 0,
-            "owner": "matfantinel",
-            "repo": "fantinel.dev",
-            "stars": 336,
-            "topics": [
-              "astro",
-              "svelte"
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
@@ -1266,8 +1456,8 @@
             "id": 813142019,
             "language": "Svelte",
             "license": null,
-            "last_commit": "2026-10-29T17:50:12Z",
-            "open_issues": 157,
+            "last_commit": "2026-10-30T18:06:35Z",
+            "open_issues": 158,
             "owner": "sveltejs",
             "repo": "svelte.dev",
             "stars": 332,
@@ -1304,70 +1494,6 @@
         },
         {
           "node_type": "item",
-          "title": "Svelte Intl Precompile",
-          "description": "cibernox/svelte-intl-precompile",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "I18n library for Svelte.js that analyzes your keys at build time for max performance and minimal footprint",
-            "homepage": "https://svelte-intl-precompile.com",
-            "id": 358303190,
-            "language": "JavaScript",
-            "license": "ISC",
-            "last_commit": "2024-11-03T22:53:11Z",
-            "open_issues": 10,
-            "owner": "cibernox",
-            "repo": "svelte-intl-precompile",
-            "stars": 280,
-            "topics": [
-              "formatting",
-              "i18n",
-              "internationalization",
-              "localization",
-              "svelte",
-              "translation"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SVAR Svelte Core",
-          "description": "svar-widgets/core",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "SVAR Core library is a collection of essential UI components written with Svelte. ",
-            "homepage": "https://svar.dev/svelte/core/",
-            "id": 718130536,
-            "language": "Svelte",
-            "license": "MIT",
-            "last_commit": "2026-09-01T09:13:19Z",
-            "open_issues": 5,
-            "owner": "svar-widgets",
-            "repo": "core",
-            "stars": 272,
-            "topics": [
-              "combobox",
-              "components-library",
-              "datepicker",
-              "popups",
-              "svar-ui",
-              "svelte",
-              "svelte-components",
-              "svelte-library",
-              "svelte-ui",
-              "svelte-ui-components",
-              "svelte-uikit",
-              "svelte5",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
           "title": "SvelteKit Embed",
           "description": "spences10/sveltekit-embed",
           "children": [],
@@ -1378,8 +1504,8 @@
             "id": 387004664,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T15:08:34Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-30T09:29:05Z",
+            "open_issues": 8,
             "owner": "spences10",
             "repo": "sveltekit-embed",
             "stars": 240,
@@ -1391,27 +1517,6 @@
               "svelte",
               "youtube"
             ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SvelteKit on Edge",
-          "description": "Rich-Harris/sveltekit-on-the-edge",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "SvelteKit, running on the edge",
-            "homepage": "sveltekit-on-the-edge.vercel.app",
-            "id": 483802922,
-            "language": "Svelte",
-            "license": null,
-            "last_commit": "2023-02-21T16:15:27Z",
-            "open_issues": 2,
-            "owner": "Rich-Harris",
-            "repo": "sveltekit-on-the-edge",
-            "stars": 226,
-            "topics": []
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
         },
@@ -1431,7 +1536,7 @@
             "open_issues": 6,
             "owner": "rohitpotato",
             "repo": "svelte-command-palette",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "cmd-palette",
               "command-palette",
@@ -1467,38 +1572,6 @@
               "puzzle-game",
               "svelte",
               "sveltekit"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Pixel Art Together",
-          "description": "liveblocks/pixel-art-together",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Pixel Art Together is a multiplayer pixel art editor powered by Liveblocks.",
-            "homepage": "https://pixelart.liveblocks.app",
-            "id": 473152175,
-            "language": "Svelte",
-            "license": "Apache-2.0",
-            "last_commit": "2024-08-20T09:09:01Z",
-            "open_issues": 1,
-            "owner": "liveblocks",
-            "repo": "pixel-art-together",
-            "stars": 215,
-            "topics": [
-              "art",
-              "collaboration",
-              "drawing",
-              "liveblocks",
-              "multiplayer",
-              "pixel-art",
-              "shoelace-style",
-              "svelte",
-              "sveltekit",
-              "tailwindcss"
             ]
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
@@ -1563,36 +1636,6 @@
         },
         {
           "node_type": "item",
-          "title": "sveltekit-mdsvex-blog",
-          "description": "mvasigh/sveltekit-mdsvex-blog",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A minimalistic blog template built with SvelteKit and MDsveX",
-            "homepage": "https://sveltekit-mdsvex-blog.netlify.app",
-            "id": 365656034,
-            "language": "Svelte",
-            "license": "MIT",
-            "last_commit": "2023-01-27T02:29:46Z",
-            "open_issues": 1,
-            "owner": "mvasigh",
-            "repo": "sveltekit-mdsvex-blog",
-            "stars": 175,
-            "topics": [
-              "blog",
-              "blog-engine",
-              "markdown",
-              "mdsvex",
-              "svelte",
-              "sveltejs",
-              "sveltekit",
-              "sveltekit-template"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
           "title": "Intl Explorer",
           "description": "jesperorb/intl-explorer",
           "children": [],
@@ -1645,7 +1688,7 @@
             "id": 492505127,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T15:07:04Z",
+            "last_commit": "2026-10-30T09:27:56Z",
             "open_issues": 4,
             "owner": "spences10",
             "repo": "svead",
@@ -1661,27 +1704,6 @@
               "svelte",
               "sveltekit"
             ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Paper Trader Game",
-          "description": "davjhan/paper-trader-game",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple game where you try to make as much money as you can in 90s",
-            "homepage": null,
-            "id": 387993629,
-            "language": "Svelte",
-            "license": null,
-            "last_commit": "2026-03-01T06:00:18Z",
-            "open_issues": 4,
-            "owner": "davjhan",
-            "repo": "paper-trader-game",
-            "stars": 107,
-            "topics": []
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
         },
@@ -1731,83 +1753,6 @@
         },
         {
           "node_type": "item",
-          "title": "connorrothschild.com",
-          "description": "connorrothschild/v4",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "My 2023 personal portfolio & blog, built with SvelteKit",
-            "homepage": "http://v4.connorrothschild.com/",
-            "id": 399932830,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2026-09-09T18:14:37Z",
-            "open_issues": 0,
-            "owner": "connorrothschild",
-            "repo": "v4",
-            "stars": 80,
-            "topics": [
-              "creative",
-              "personal-website",
-              "svelte",
-              "sveltekit"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Guess The Year",
-          "description": "davjhan/guess-the-year-game",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple browser mini-game where you guess the year that the following event happened. ",
-            "homepage": "https://guess-the-year.davjhan.com/",
-            "id": 370163188,
-            "language": "Svelte",
-            "license": null,
-            "last_commit": "2021-07-17T03:49:00Z",
-            "open_issues": 0,
-            "owner": "davjhan",
-            "repo": "guess-the-year-game",
-            "stars": 48,
-            "topics": [
-              "game",
-              "svelte",
-              "sveltekit",
-              "webgame"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Multi-Monitor Calculator",
-          "description": "KevinVandy/multi-monitor_calculator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A tool for planning your multi-monitor setup. Formerly written in React (and before that PHP and jQuery), but now in Sveltekit!",
-            "homepage": "https://multimonitorcalculator.com/",
-            "id": 142685796,
-            "language": "Svelte",
-            "license": null,
-            "last_commit": "2024-10-23T06:47:59Z",
-            "open_issues": 7,
-            "owner": "KevinVandy",
-            "repo": "multi-monitor_calculator",
-            "stars": 47,
-            "topics": [
-              "material-ui",
-              "monitors",
-              "svelte"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
           "title": "barnsworthburning",
           "description": "Aias/barnsworthburning",
           "children": [],
@@ -1818,7 +1763,7 @@
             "id": 197587169,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-10-03T18:37:28Z",
+            "last_commit": "2026-10-29T21:44:45Z",
             "open_issues": 0,
             "owner": "Aias",
             "repo": "barnsworthburning",
@@ -1850,7 +1795,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-22T16:24:18Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "rodrgds",
             "repo": "productplate",
             "stars": 36,
@@ -1869,88 +1814,6 @@
               "sveltekit",
               "tailwindcss"
             ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ConcertMash",
-          "description": "mcmxcdev/ConcertMash",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Easily generate a playlist for your upcoming concerts based on selected artists!",
-            "homepage": "https://concertmash.com/",
-            "id": 423408746,
-            "language": "Svelte",
-            "license": null,
-            "last_commit": "2026-09-23T02:55:54Z",
-            "open_issues": 6,
-            "owner": "mcmxcdev",
-            "repo": "ConcertMash",
-            "stars": 13,
-            "topics": [
-              "music",
-              "music-library",
-              "playlist-generator",
-              "spotify",
-              "spotify-library",
-              "spotify-playlist",
-              "spotify-playlist-generator",
-              "spotify-web-api"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Team Health Check",
-          "description": "codehub-kirans/team-health-check",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A rapid team (squad) health check application to assess and visualize Agile Scrum team performance using a set of behaviour anchors to build team awareness and perspective.",
-            "homepage": "https://teamhealthcheck.kirans.in",
-            "id": 618898846,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-04-22T12:05:30Z",
-            "open_issues": 0,
-            "owner": "codehub-kirans",
-            "repo": "team-health-check",
-            "stars": 11,
-            "topics": [
-              "agile-team-heath",
-              "picocss",
-              "pocketbase",
-              "scrum-team",
-              "spotify-health-check",
-              "squad-health-check",
-              "svelte",
-              "sveltekit",
-              "team-health-check"
-            ]
-          },
-          "first_seen": "2026-08-28T22:31:09.566Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Svelvet",
-          "description": "oslabs-beta/Svelvet",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts",
-            "homepage": "https://svelvet.io",
-            "id": 916689087,
-            "language": "Svelte",
-            "license": null,
-            "last_commit": "2025-02-18T20:15:48Z",
-            "open_issues": 0,
-            "owner": "oslabs-beta",
-            "repo": "Svelvet",
-            "stars": 1,
-            "topics": []
           },
           "first_seen": "2026-08-28T22:31:09.566Z"
         },
@@ -1985,7 +1848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:35:12.861Z",
+    "last_updated": "2026-10-30T18:07:22.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome examples of SvelteKit in the wild",
@@ -1993,11 +1856,11 @@
       "id": 353665258,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-10-04T10:37:35Z",
+      "last_commit": "2026-10-30T16:40:36Z",
       "open_issues": 0,
       "owner": "janosh",
       "repo": "awesome-sveltekit",
-      "stars": 1328,
+      "stars": 1329,
       "topics": [
         "awesome-list",
         "community",
@@ -2005,7 +1868,7 @@
         "svelte-kit"
       ]
     },
-    "original_repository_sha": "5f542711b6dfeabeddce3dbecdf0c7026396a384",
+    "original_repository_sha": "f6b4490d4e8b0f60ebb697496df50f200781eeed",
     "enhanced_repository": "enhansome/enhansome-sveltekit",
     "enhanced_repository_description": null,
     "title": "Awesome sveltekit with stars"
